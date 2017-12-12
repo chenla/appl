@@ -1,0 +1,66 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+#+TITLE:   APPL | TOC
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* APPL | Table of Contents
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/appl/index.org
+:Created:  2017-12-12T21:30@Prek Leap (11.642600N-104.919210W)
+:ID:       e8d51781-7227-45f5-818d-51ed9646e044
+:VER:      566361081.137627211
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:WMJ1-6203
+:Class:    primer
+:Entity:   toc
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** 8. Fashion
+** 7. Commerce
+** 6. Infrastructure
+** 5. Governance
+ - Fabric of Guilds
+ - Masters & Mentors
+ - Journeymen
+ - Apprentices
+** 4. Culture
+ - Town Gown
+ - * | Cultural Rituals
+   - Birth
+   - Coming of Age
+   - Mastery (graduation, titles)
+   - Marriage & Divorce
+   - Retirement
+   - Death
+ - Cultural Art
+ - Cultural Calendars
+ - Lifelong Learning
+ - Cognitive Toolbox
+** 3. Bios
+ - Liquids & Gas
+ - Independent Bioregions
+ - Managed Ecosystems
+** 2. Lithos
+ - Goldilocks Zones
+ - Rock & Ice
+ - * | Gravity 
+** 1. Cosmos
+ - Light Cones
+ - Lagrange Points
+ - HTO Transfer Orbits
+** 0. Meta
+ - An Antifragile Civilization
+ - Distributed Knowledge 
+ - A Multi-Planet Species
+ - * | Dual Nature
+   - Janus Pattern (Whole Part)
+   - LOD, POV, ROC
