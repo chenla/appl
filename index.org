@@ -41,18 +41,43 @@
    - Marriage & Divorce
    - Retirement
    - Death
- - Cultural Art
- - Cultural Calendars
+ - * | Shared Stories
+   - Art
+   - Calendars
+   - Mythos
  - Lifelong Learning
  - Cognitive Toolbox
+ - * | Rights (as in human rights)
+ - * | Obligations
+   - The Golden Rule
+   - Enlightened Self Interest
 ** 3. Bios
- - Liquids & Gas
+ - * | States of Matter (solid, liquid, gas)
  - Independent Bioregions
+ - Mimic Ecosystems
  - Managed Ecosystems
+ - Agricultural Zones (Mollison)
+ - Hurkel Culture (raised beds)
+ - Palm Circles
+
 ** 2. Lithos
  - Goldilocks Zones
  - Rock & Ice
- - * | Gravity 
+ - * | Gravity
+ - * | Elements & Molecules
+   - Oxygen
+   - Nitrogen
+   - Potassium
+   - Sodium
+   - Silicon
+   - Iron
+   - Gold
+   - Silver
+   - Copper
+   - Mercury
+   - Aluminum
+   - Methane
+   - Ammonia
 ** 1. Cosmos
  - Light Cones
  - Lagrange Points
