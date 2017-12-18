@@ -11,6 +11,7 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+bibliography:../hoard/bib.bib
 
 * Antifragile Civilization | Meta
 :PROPERTIES:
@@ -29,10 +30,10 @@
 
 ** Introduction
 
-Civilization has always been a fragile thin veneer, a luxury that
-mankind can only indulge in when surplus of resources needed for 
-survival are sufficient to allow a some individuals to work on things
-that are not necessary for immediate survival.
+Civilization has always been little more than a thin veneer, a luxury
+that can only be indulged when there is a surplus that allows a few
+individuals to work on things that are not necessary for immediate
+survival.
 
 Nassim Nicholas Taleb coined the phrase /antifragile/ which he defines 
 as:
@@ -50,42 +51,46 @@ antifragile gets better.
 Life is quite delicate in the instance, but astonishingly tenacious
 and resilient in the aggregate.  Despite having gone through 5 major
 extinction events that in some cases wiped out over 90% of the species
-on the planet, life roared back afterwards to recolonize the planet in
-ever more complex and varied forms.
-
-While a few genus, such as dragonflies, sharks .... have survived
-through multiple extinction events, individual spieces seldom fare
-well usually being replaced by an other species or being blown out
-like a candle in the wake of clamities that wipe out their ecological
-niche in their ecosystem.
-
-
-  - 
-  - inclusive -- we must embrace the reality that man is a only part
-    of the larger concept of mankind.  As a single species we are
-    vulnerable, but the more inclusive Mankind becomes, the stronger
-    we become.  
-
-    We are homo sapiens -- there have been man other
-    species of man.  And as we move out into the solar system and
-    eventually to the stars we will diverge again -- but we will all
-    still be man.
-
-  - distributed -- man is not the only tool builder, and man is not
-    the only species to shape the environment to adapt to the
-    environment but no other species has adopted tools and shaping the
-    environment as its primary technique for survival.  Over thousands
-    of years Mankind has shaped the biosphere on planetary scales --
-    first with fire and later with tools and machines.
-
-    We have even created artificial biospheres off the planet.
-
-  - carrying capacities -- 
-
-
-    However, when specialties become centralized, civilizations become
-    vulnerable -- small problems can cascade out of control resulting
-    in systemic collapse.
+some of which lingered on for hundreds of thousands of years before
+going extinct and others blown out like a candle.  And yet, each time
+life roared back to reclaim the planet in ever more complex and
+varied forms.
 
 
 
+  - adaptation
+  - dispersal
+  - duplication
+  - propagation
+  - cooperation
+
+
+** Adapt
+ - adapt to thrive or at least survive in as wide a range of
+   environments as possible -- we've been doing this since we left the
+   Savannah xxx years ago
+ - all about iteration to overcome and transcend our cognitive and
+   biological limitations
+ - iteration is a non-linear process -- there are dead ends and more
+   failures than success.  the only way to succeed is through
+   perseverance and relentless trial and error that is always a
+   borders on being a sysiphean pursuit for the individual, but in
+   aggregate is a powerful strategy
+** Disperse 
+ - we must expand because no one place will be arond forever, so we
+   need to be in as many places as possible to maximize chances of
+   survival.
+ - stagnation is the first step towards death, it's giving in to
+   entropy, the opposite of the process of life
+** Duplicate
+ - the most antifragile mechanism we know of is life itself, which is
+   governed by DNA.  DNA does only two things, duplicate and
+   propagate, everything else is a side effect that increases DNA's
+   ability to duplicate and propagate
+** Propagate
+ - dispersal and propagration are an instance of the Janus Pattern,
+   disperse and expand wholes, and propagate between the parts --
+   traverse a graph, it's a network process.  
+** Cooperate
+ - which is all about wholes who understand that they are also a part
+   of something larger
