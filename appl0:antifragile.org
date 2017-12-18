@@ -1,0 +1,63 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Antifragile Civilization | Meta
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* Antifragile Civilization | Meta
+:PROPERTIES:
+:CUSTOM_ID: appl0:antifragile
+:Name:     /home/deerpig/proj/chenla/appl/appl0:antifragile.org
+:Created:  2017-12-18T15:06@Prek Leap (11.642600N-104.919210W)
+:ID:       e15895b4-0551-4746-99e9-053c09de9ca2
+:VER:      566856478.528750804
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:JHG8-8846
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Introduction
+
+Civilization has always been a fragile thin veneer, a luxury that
+mankind can only indulge in when surplus of resources needed for 
+survival are sufficient to allow a some individuals to work on things
+that are not necessary for immediate survival.
+
+Nassim Nicholas Taleb coined the phrase /antifragile/ which he defines 
+as:
+
+#+begin_quote
+Some things benefit from shocks; they thrive and grow when exposed to
+volatility, randomness, disorder, and stressors and love adventure,
+risk, and uncertainty. Yet, in spite of the ubiquity of the
+phenomenon, there is no word for the exact opposite of fragile. Let us
+call it antifragile. Antifragility is beyond resilience or
+robustness. The resilient resists shocks and stays the same; the
+antifragile gets better.
+#+end_quote
+
+Life is quite delicate in the instance, but astonishingly tenacious
+and resilient in the aggregate.  Despite having gone through 5 major
+extinction events that in some cases wiped out over 90% of the species
+on the planet, life roared back afterwards to recolonize the planet in
+ever more complex and varied forms.
+
+While a few genus, such as dragonflies, sharks .... have survived
+through multiple extinction events, individual spieces seldom fare
+well usually being replaced by an other species or being blown out
+like a candle in the wake of clamities that wipe out their ecological
+niche in their ecosystem.
+
+
+
