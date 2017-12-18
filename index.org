@@ -26,14 +26,43 @@
 
 ** 8. Fashion
 ** 7. Commerce
+ - markets
+
+does commerce include industry?
+
+no fucking invisible hand
+
+
+**    Buildings?
+
+buildings are not infrastructure and they are not commerce
+
+
 ** 6. Infrastructure
+ - commons (trad. forest and pasture)
+ - roads, tunnels, bridges
+ - airspace
+ - bandwidth
+ - grids - water, electric, info, gas, sewage, trash
+   - generation -- electic, compute, cognition, cooling, storage, atmosphere
+ - gas/electric charging stations
+ - logistics
+ - transactions: currency & exchange
 ** 5. Governance
- - Fabric of Guilds
- - Masters & Mentors
+ - representation
+ - judgement
+ - force
+ - territory
+   - porous borders (right to travel and emigrate) based on carrying capacity
+ - corporate ???
+ - Fabric of Guilds (overlap, checks and balances)
+ - Masters
  - Journeymen
  - Apprentices
 ** 4. Culture
- - Town Gown
+ - empirical pragmatism over subjective belief
+ - * | Language
+ - * | Family
  - * | Cultural Rituals
    - Birth
    - Coming of Age
@@ -44,17 +73,29 @@
  - * | Shared Stories
    - Art
    - Calendars
+     - Microseasons (climate, food, tasks)
    - Mythos
  - Lifelong Learning
  - Cognitive Toolbox
  - * | Rights (as in human rights)
+   - life --> soverign existence, base thresholds for living and dieing
+   - liberty (of movement, self determination)
+   - speech
+   - privacy
+   - base air, sleep & rest , food, medical care, shelter transporation & material goods
+       deprivation of these things can never be used as incentive 
+   - education
+   - access to information & communication
  - * | Obligations
    - The Golden Rule
    - Enlightened Self Interest
+   - Informed Participation
+   - Transparency
+   - Contribution (time, mind, material wealth???)
 ** 3. Bios
  - * | States of Matter (solid, liquid, gas)
  - Independent Bioregions
- - Mimic Ecosystems
+ - Mimicing Ecosystems
  - Managed Ecosystems
  - Agricultural Zones (Mollison)
  - Hurkel Culture (raised beds)
@@ -62,9 +103,10 @@
 
 ** 2. Lithos
  - Goldilocks Zones
- - Rock & Ice
+ - Rock, Iron & Ice
  - * | Gravity
  - * | Elements & Molecules
+   - Carbon
    - Oxygen
    - Nitrogen
    - Potassium
@@ -77,6 +119,8 @@
    - Mercury
    - Aluminum
    - Methane
+   - Water
+   - Carbon Dioxide
    - Ammonia
 ** 1. Cosmos
  - Light Cones
