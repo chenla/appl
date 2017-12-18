@@ -32,22 +32,25 @@ does commerce include industry?
 
 no fucking invisible hand
 
-
-**    Buildings?
-
-buildings are not infrastructure and they are not commerce
-
-
 ** 6. Infrastructure
- - commons (trad. forest and pasture)
- - roads, tunnels, bridges
- - airspace
- - bandwidth
- - grids - water, electric, info, gas, sewage, trash
-   - generation -- electic, compute, cognition, cooling, storage, atmosphere
+ - infrastructure commons
+   - forest, pasture, paths, ponds
+   - roads, tunnels, bridges
+   - knowledge & data
+   - airspace
+ - federated network of local grids 
+   - water
+   - electric
+   - info: compute, cognition, storage
+   - fuels -- petro, bio, gas -- solid/liquid/gas 
+   - sewage collction and processing
+   - trash collecting and processing
+ - stockpiles -- banks, food stores, metals, commodities
+ - generation -- electic, cooling, storage, atmosphere
  - gas/electric charging stations
  - logistics
  - transactions: currency & exchange
+ - buildings
 ** 5. Governance
  - representation
  - judgement
@@ -93,16 +96,19 @@ buildings are not infrastructure and they are not commerce
    - Transparency
    - Contribution (time, mind, material wealth???)
 ** 3. Bios
- - * | States of Matter (solid, liquid, gas)
+ - Identifiable Biospheres
  - Independent Bioregions
  - Mimicing Ecosystems
  - Managed Ecosystems
+
  - Agricultural Zones (Mollison)
- - Hurkel Culture (raised beds)
+ - Hügelkultur (raised beds)
  - Palm Circles
 
 ** 2. Lithos
  - Goldilocks Zones
+
+ - * | States of Matter (solid, liquid, gas)
  - Rock, Iron & Ice
  - * | Gravity
  - * | Elements & Molecules
@@ -127,9 +133,12 @@ buildings are not infrastructure and they are not commerce
  - Lagrange Points
  - HTO Transfer Orbits
 ** 0. Meta
- - An Antifragile Civilization
+ - [[./appl0:antifragile.org][Antifragile Civilization]]
  - Distributed Knowledge 
  - A Multi-Planet Species
  - * | Dual Nature
    - Janus Pattern (Whole Part)
-   - LOD, POV, ROC
+ - * | Context
+   - Level of Detail (LOD)
+   - Point of View (POV) 
+   - Rate of Change (ROT)
