@@ -45,7 +45,7 @@ risk, and uncertainty. Yet, in spite of the ubiquity of the
 phenomenon, there is no word for the exact opposite of fragile. Let us
 call it antifragile. Antifragility is beyond resilience or
 robustness. The resilient resists shocks and stays the same; the
-antifragile gets better.
+antifragile gets better.cite:taleb:2012antifragile
 #+end_quote
 
 Life is quite delicate in the instance, but astonishingly tenacious
@@ -55,8 +55,6 @@ some of which lingered on for hundreds of thousands of years before
 going extinct and others blown out like a candle.  And yet, each time
 life roared back to reclaim the planet in ever more complex and
 varied forms.
-
-
 
   - adaptation
   - dispersal
