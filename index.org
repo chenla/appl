@@ -8,6 +8,7 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+bibliography:../hoard/bib.bib
 
 * APPL | Table of Contents
 :PROPERTIES:
@@ -26,13 +27,45 @@
 
 
 ** 9. Fashion
-** 8. Commerce
+Fashion patterns are ephemeral, throwing spaghetti at the
+wall that lower levels are watching to see what sticks.
+
+So I imagine that many of the Fashion patterns will be about
+how to give fashion the freedom to explore without fucking
+up lower layers.  This has always been an important function
+of any society, which comes in the form of setting limits on
+what you can mess with, where you can mess with it and
+defining the thresholds to ensure things don't get out of
+hand.  This is a delicate balance because it's important to
+pay attention to fashion and learn from it.
+
+Fashion is all about risk taking, and risks are, well,
+risky.  There is a high rate of failure.
+
+Fashion and popularity are bedfellows and popularity is a
+crude blunt instrument, but it has its uses so long as the
+popular comes at the expense of more important things,
+especially morals and ethics.  Popularity always is at the
+cusp of sweeping away things that matter, populism, or
+pandering to what is popular is very dangerous because it
+preys on our cognitive shortcomings and plays to parts of
+our brain that reacts rather than considers.
+
+Fashion is where memes are born
+
+
+
+** 8. Commerce & Industry
+
+Commerce is interaction, Industry is production.
+
+
  - supply & demand
  - production
  - markets
  - logistics
 ** 7. Infrastructure
- - infrastructure commons
+ - * | commons
    - forest, pasture, paths, ponds
    - roads, tunnels, bridges
    - knowledge & data
@@ -40,7 +73,7 @@
    - property
    - airspace
    - bandwidth
- - network of local grids 
+ - * | network of local grids 
    - water
    - electric
    - info: compute, cognition, storage
@@ -61,9 +94,10 @@
    - porous borders (right to travel and emigrate) based on carrying capacity
  - corporate ???
  - Fabric of Guilds (overlap, checks and balances)
- - Masters
- - Journeymen
- - Apprentices
+ - * | Hierarchies of Mastery
+   - Masters
+   - Journeymen
+   - Apprentices
 ** 5. Culture
  - empirical pragmatism over subjective belief
  - * | Language
@@ -100,10 +134,11 @@
 ** 4. Anthros
 
 cognition & biological patterns
-
-  - magic number 7
-  - 150
-  - small world problem
+  - transactive species
+  - * | Cognitive Limits
+    - magic number 7
+    - 150
+    - small world problem
 
 ** 3. Bios
 
@@ -112,7 +147,6 @@ cognition & biological patterns
    - salts
    - starches
    - proteins
-
 
  - Identifiable Biospheres
  - Independent Bioregions
@@ -133,7 +167,6 @@ cognition & biological patterns
      Its compounds are very important, being used in glass
      making, soap making, in fertilizers, and in many drugs
      and chemicals.
-
    - Chlorine
    - Sodium
    - Silicon
