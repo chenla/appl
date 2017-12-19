@@ -173,7 +173,7 @@ cognition & biological patterns
  - Distributed Knowledge 
  - A Multi-Planet Species
  - * | Dual Nature
-   - Janus Pattern (Whole Part)
+   - [[./appl0:janus.org][Janus Pattern]] (Whole Part)
  - * | Context
    - Level of Detail (LOD)
    - Point of View (POV) 
