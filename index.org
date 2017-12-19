@@ -24,21 +24,23 @@
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** 8. Fashion
-** 7. Commerce
+
+** 9. Fashion
+** 8. Commerce
+ - supply & demand
+ - production
  - markets
-
-does commerce include industry?
-
-no fucking invisible hand
-
-** 6. Infrastructure
+ - logistics
+** 7. Infrastructure
  - infrastructure commons
    - forest, pasture, paths, ponds
    - roads, tunnels, bridges
    - knowledge & data
+ - * | borders, possession & ownership
+   - property
    - airspace
- - federated network of local grids 
+   - bandwidth
+ - network of local grids 
    - water
    - electric
    - info: compute, cognition, storage
@@ -51,7 +53,7 @@ no fucking invisible hand
  - logistics
  - transactions: currency & exchange
  - buildings
-** 5. Governance
+** 6. Governance
  - representation
  - judgement
  - force
@@ -62,7 +64,7 @@ no fucking invisible hand
  - Masters
  - Journeymen
  - Apprentices
-** 4. Culture
+** 5. Culture
  - empirical pragmatism over subjective belief
  - * | Language
  - * | Family
@@ -95,7 +97,23 @@ no fucking invisible hand
    - Informed Participation
    - Transparency
    - Contribution (time, mind, material wealth???)
+** 4. Anthros
+
+cognition & biological patterns
+
+  - magic number 7
+  - 150
+  - small world problem
+
 ** 3. Bios
+
+ - * | Building Blocks
+   - sugars
+   - salts
+   - starches
+   - proteins
+
+
  - Identifiable Biospheres
  - Independent Bioregions
  - Mimicing Ecosystems
@@ -106,16 +124,17 @@ no fucking invisible hand
  - Palm Circles
 
 ** 2. Lithos
- - Goldilocks Zones
-
- - * | States of Matter (solid, liquid, gas)
  - Rock, Iron & Ice
- - * | Gravity
- - * | Elements & Molecules
+ - * | Elements
    - Carbon
    - Oxygen
    - Nitrogen
    - Potassium
+     Its compounds are very important, being used in glass
+     making, soap making, in fertilizers, and in many drugs
+     and chemicals.
+
+   - Chlorine
    - Sodium
    - Silicon
    - Iron
@@ -124,14 +143,31 @@ no fucking invisible hand
    - Copper
    - Mercury
    - Aluminum
-   - Methane
+ - * | Molecules
    - Water
+   - Methane
    - Carbon Dioxide
+   - Calcium Carbonate (Lime)
+   - Potash --> lye
+   - Soda ash
+   - Slaked lime
    - Ammonia
+   - ethanol
+   - acetic acid
+   - sulfuric acid
+   - hydrochloric acid
+   - nitric acid
+   - potassium nitrate (saltpeter)
 ** 1. Cosmos
- - Light Cones
- - Lagrange Points
- - HTO Transfer Orbits
+ - It From Bit --> reducing cosmos to binary outcomes
+ - Process Theory --> everything is in the process of becoming...
+ - Goldilocks Zones --> temperature
+ - * | States of Matter (solid, liquid, gas)
+ - * | Gravity
+ - Light Cones --> causal propagation
+ - * | Mechanics
+   - Lagrange Points
+   - HTO Transfer Orbits
 ** 0. Meta
  - [[./appl0:antifragile.org][Antifragile Civilization]]
  - Distributed Knowledge 
