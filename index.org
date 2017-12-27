@@ -53,8 +53,6 @@ our brain that reacts rather than considers.
 
 Fashion is where memes are born
 
-
-
 ** 8. Commerce & Industry
 
 Commerce is interaction, Industry is production.
@@ -81,6 +79,9 @@ Commerce is interaction, Industry is production.
    - sewage collction and processing
    - trash collecting and processing
  - stockpiles -- banks, food stores, metals, commodities
+   should be understood in terms of D. Meadows "size of
+   buffers"cite:meadows:1999leverage
+
  - generation -- electic, cooling, storage, atmosphere
  - gas/electric charging stations
  - logistics
@@ -88,7 +89,7 @@ Commerce is interaction, Industry is production.
  - buildings
 ** 6. Governance
  - representation
- - judgement
+ - judgement 
  - force
  - territory
    - porous borders (right to travel and emigrate) based on carrying capacity
@@ -202,6 +203,10 @@ cognition & biological patterns
    - Lagrange Points
    - HTO Transfer Orbits
 ** 0. Meta
+ - it from bit
+ - holons
+   everything is both a whole and a part
+ - matryoshka systems
  - [[./appl0:antifragile.org][Antifragile Civilization]]
  - Distributed Knowledge 
  - A Multi-Planet Species
@@ -211,3 +216,16 @@ cognition & biological patterns
    - Level of Detail (LOD)
    - Point of View (POV) 
    - Rate of Change (ROT)
+ - * | Systems
+   - constants & variables
+   - buffers
+   - stock-and-flow
+   - latency
+   - negative feedback loops
+     - goal
+     - sensor and signal
+     - response mechanism
+   - positive feedback loops
+
+
+
