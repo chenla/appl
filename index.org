@@ -203,13 +203,27 @@ cognition & biological patterns
    - Lagrange Points
    - HTO Transfer Orbits
 ** 0. Meta
- - it from bit --> binary nature of the quantum  
- - causal propagation --> light cones
- - the cosmic holarchy --> everything is nested part/whole
-                       --> everything forms a directed graph
- - living systems --> the opposite is dead heaps
- - lots of copies keep stuff safe 
- - pace layers --> things change at different rates
+ - COSMOLOGY
+   - it from bit           --> binary nature of quantum events
+                           --> information is physical
+   - entropy's pendulum    --> everything breaks down
+                           --> living systems build order
+                           --> entropy wins in the end
+                           --> time is a function of entropy
+   - causal propagation    --> light cones
+                           --> pace layers
+                           --> everything is process
+ - DUALITIES
+   - contexual fnords      --> context determines observation
+                           --> LOD, POV, ROC
+   - the cosmic holarchy   --> everything is nested part/whole
+                           --> everything forms a directed graph
+
+ - SYSTEMS
+   - living systems        --> the opposite is dead heaps
+                           --> complexity results in uncertainty
+   - distributed systems   --> lots of copies keep stuff safe
+
 
 -----
 
