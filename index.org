@@ -203,13 +203,19 @@ cognition & biological patterns
    - Lagrange Points
    - HTO Transfer Orbits
 ** 0. Meta
- - it from bit
- - holons
-   everything is both a whole and a part
- - matryoshka systems
+ - it from bit --> binary nature of the quantum  
+ - causal propagation --> light cones
+ - the cosmic holarchy --> everything is nested part/whole
+                       --> everything forms a directed graph
+ - living systems --> the opposite is dead heaps
+ - lots of copies keep stuff safe 
+ - pace layers --> things change at different rates
+
+-----
+
+ - the continuum of civilization
  - [[./appl0:antifragile.org][Antifragile Civilization]]
- - Distributed Knowledge 
- - A Multi-Planet Species
+ - A Multi-Basket Humanity
  - * | Dual Nature
    - [[./appl0:janus.org][Janus Pattern]] (Whole Part)
  - * | Context
