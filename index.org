@@ -193,29 +193,51 @@ cognition & biological patterns
    - nitric acid
    - potassium nitrate (saltpeter)
 ** 1. Cosmos
- - It From Bit --> reducing cosmos to binary outcomes
- - Process Theory --> everything is in the process of becoming...
- - Goldilocks Zones --> temperature
- - * | States of Matter (solid, liquid, gas)
- - * | Gravity
- - Light Cones --> causal propagation
- - * | Mechanics
-   - Lagrange Points
-   - HTO Transfer Orbits
-** 0. Meta
- - COSMOLOGY
+:PROPERTIES:
+:ID:       1205e5b5-b37c-4c25-b928-dd8cf8391b70
+:END:
+ - COSMOLOGICAL
    - it from bit           --> binary nature of quantum events
-                           --> information is physical
+                           -   information is physical
+                           --> information is base unit
    - entropy's pendulum    --> everything breaks down
-                           --> living systems build order
-                           --> entropy wins in the end
-                           --> time is a function of entropy
-   - causal propagation    --> light cones
+                           -   living systems build order
+                           -   entropy wins in the end
+                           -   entropy gives time a direction
+                           --> time creates threads - stories
+   - causal propagation    --> everything is process
+                           -   absolute  -> light cones
+                           -   practical -> time to do things
                            --> pace layers
-                           --> everything is process
+
+ - GRAVITY
+   - holds things together
+   - potential energy from gravity does work without expending energy
+   - up and down
+   - Mechanics
+     - Lagrange Points
+     - HTO Transfer Orbits
+   - gravity is most important force in systems
+
+ - HEAT
+   - States of Matter (solid, liquid, gas)
+   - Goldilocks Zones --> temperature
+   - cold and computation
+   - heat transfer
+   - fusion and fire
+
+ - ELECTROMAGNETISM
+   - electricity
+   - magnetism
+   -  
+
  - DUALITIES
    - contexual fnords      --> context determines observation
-                           --> LOD, POV, ROC
+                           -   LOD -- coastline paradox
+                           -   POV -- 
+                           -   ROC -- 
+                           -   true/false determined by context
+                           --> alive and dead until observed
    - the cosmic holarchy   --> everything is nested part/whole
                            --> everything forms a directed graph
 
@@ -223,7 +245,12 @@ cognition & biological patterns
    - living systems        --> the opposite is dead heaps
                            --> complexity results in uncertainty
    - distributed systems   --> lots of copies keep stuff safe
-
+   - feedback loops        --> negative and positive
+   - buffers               --> stockpiles and reserves 
+   - constants             --> hardwired numbers we can't change
+   - variables             --> things you can tinker with 
+   - delays                --> points to causal propagation
+   - diversity             -->  
 
 -----
 
