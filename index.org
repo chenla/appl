@@ -227,9 +227,10 @@ cognition & biological patterns
    - fusion and fire
 
  - ELECTROMAGNETISM
-   - electricity
-   - magnetism
-   -  
+   - fields
+     - electric
+     - magnetic
+     - light 
 
  - DUALITIES
    - contexual fnords      --> context determines observation
