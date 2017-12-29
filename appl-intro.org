@@ -29,8 +29,67 @@
 
 ** Introduction
 
-When attempting to construct a primer for understanding, building and
-maintaining human civilization the problem of how to present and
-structure such a thing quickly revealed itself to be a non-trivial
+It's been said that the way we organize information mirrors the power
+structure of what is being organized.  If you reorganize the
+information it will reorganize the power structure and vice versa.  So
+we must take extreme care that the way we structure a primer for
+building and maintaining a civilization from first principles reflects
+the power structure of the civilization we are building. It takes
+little thought to come to the conclusion this is a non-trivial
 problem.
 
+We will employ five overlapping structures, which we will refer to as
+=graphs=, =maps=, =threads=, =layers=, and =heaps=.
+
+*** Graphs
+The primer can best be understood as a =directed graph= that is a set
+of =vertices=, or /nodes/ which are connected to other nodes by
+=edges=, or /relationships/.  The primer as a whole forms a
+=territory=.
+
+Nature is better understood as a /graph/ rather than a =tree=.  A
+graph is flexible and resilient which can contain multiple overlapping
+tress within it.  The failure of one or two edges in a tree graph can
+result in systemic failure.  But a tree which is a subset of a graph
+remains functional, giving more time to repair, replace or remap a
+tree using other adjacent nodes.  Most monopolies are characterized by
+tree-like structures, where power is concentrated in a small number of
+nodes which control all other nodes beneath them.  Monopolies are
+structurally hostile to change, while also having all of the
+disadvantages of centralized command and control structures.
+
+The Westphalian System of Nation States has all but eradicated other
+systems during the 20th century.  When individual states were
+relatively weak and porous, the system worked relatively well.  The
+system has since ossified into strong states which believe in the
+illusion of their inalienable sovereignty.  They are in effect
+monopolies which are so resistent to change that they are unable to
+cope with external existential change which is outside their control.
+
+In order to survive, Nation States increasingly depend on establishing
+and supporting other commercial and non-governmental monopolies in
+order to survive.
+
+*** Maps
+
+*** Threads
+*** Layers
+*** Heaps
+
+
+
+six classes of information:
+
+  - narratives : story with a beginning, middle and end
+  - patterns   : recognizable set of relationships
+  - prescripts : description of procedural information 
+  - designs    : specification for contruction of made things
+  - terms      : describe or define concepts and ideas
+  - authorities: named instances of persons, places, events
+
+
+
+  - concept
+    - expression
+      - manifestation
+        - instance
