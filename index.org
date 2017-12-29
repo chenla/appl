@@ -25,6 +25,8 @@ bibliography:../hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+ - [[./appl-intro.org][Introduction]]
+
 
 ** 9. Fashion
 Fashion patterns are ephemeral, throwing spaghetti at the
@@ -200,11 +202,14 @@ cognition & biological patterns
    - it from bit           --> binary nature of quantum events
                            -   information is physical
                            --> information is base unit
-   - entropy's pendulum    --> everything breaks down
+
+   - entropy's arrow       --> everything breaks down
                            -   living systems build order
                            -   entropy wins in the end
                            -   entropy gives time a direction
-                           --> time creates threads - stories
+                           -   time creates stories
+                           --> arrow of time
+
    - causal propagation    --> everything is process
                            -   absolute  -> light cones
                            -   practical -> time to do things
@@ -212,12 +217,12 @@ cognition & biological patterns
 
  - GRAVITY
    - holds things together
+   - pressure
    - potential energy from gravity does work without expending energy
    - up and down
    - Mechanics
      - Lagrange Points
      - HTO Transfer Orbits
-   - gravity is most important force in systems
 
  - HEAT
    - States of Matter (solid, liquid, gas)
@@ -227,10 +232,9 @@ cognition & biological patterns
    - fusion and fire
 
  - ELECTROMAGNETISM
-   - fields
-     - electric
-     - magnetic
-     - light 
+   - electric fields
+   - magnetic fields
+   - light 
 
  - DUALITIES
    - contexual fnords      --> context determines observation
@@ -239,12 +243,14 @@ cognition & biological patterns
                            -   ROC -- 
                            -   true/false determined by context
                            --> alive and dead until observed
+
    - the cosmic holarchy   --> everything is nested part/whole
                            --> everything forms a directed graph
 
  - SYSTEMS
    - living systems        --> the opposite is dead heaps
                            --> complexity results in uncertainty
+
    - distributed systems   --> lots of copies keep stuff safe
    - feedback loops        --> negative and positive
    - buffers               --> stockpiles and reserves 
