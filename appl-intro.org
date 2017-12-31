@@ -11,6 +11,7 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+bibliography:../hoard/bib.bib
 
 * Introduction
 :PROPERTIES:
@@ -41,7 +42,7 @@ problem.
 We will employ five overlapping structures, which we will refer to as
 =graphs=, =maps=, =threads=, =layers=, and =heaps=.
 
-*** Graphs
+*** Graphs**
 The primer can best be understood as a =directed graph= that is a set
 of =vertices=, or /nodes/ which are connected to other nodes by
 =edges=, or /relationships/.  The primer as a whole forms a
@@ -143,16 +144,34 @@ misunderstanding of what is really happening until something becomes
 large enough to impact borders, taxes and the ability to conscript
 soldiers.  When change is slow, large systems can be controlled in
 this way, but as the rate of change increases the handful of
-paremeters that make up your map will not allow you to understand what
+parameters that make up your map will not allow you to understand what
 is happening.
 
 *** Threads
+
+Think Ariadne's thread....  I love Eco's line that the thread makes
+the destination inevitible, the Minotaur is just thrown in to make 
+things a bit more exciting...
+
 *** Layers
+
+obviously pace layers, but also things like the tcp stack, different
+layers with different LODs (such as levels of difficulty) or POVs.
+
 *** Heaps
 
+heaps (or bags, in RDF) are any set that are not connected together
+into a system.
 
+heaps are not bad in themselves -- but they are not living
 
-six classes of information:
+systems that are made up of strong connections and relationships have
+more life, and are.... beautiful.  Broken systems, are not heaps, but
+they are failed systems which tend to be ugly.
+
+** Classes
+
+the primer will be made up of six broad classes:
 
   - narratives : story with a beginning, middle and end
   - patterns   : recognizable set of relationships
@@ -161,7 +180,9 @@ six classes of information:
   - terms      : describe or define concepts and ideas
   - authorities: named instances of persons, places, events
 
+** Entity Stack
 
+A hierarchical stack using the FRBR entity model.
 
   - concept
     - expression
