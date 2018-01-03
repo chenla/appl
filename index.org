@@ -27,6 +27,27 @@ bibliography:../hoard/bib.bib
 
  - [[./appl-intro.org][Introduction]]
 
+Do we want to include antipatterns?  An antipattern is
+canary, something to guard against, so that if the canary
+dies, alarms should go off and action taken -- but
+antipatterns should not be binary, true or false, right or
+wrong.  They are patterns, that are dangerous when they gain
+momentum and don't become apparent until they have almost
+reached a tipping point.  Every canary must have multiple
+triggers that kick in a negative feedback loop that corrects
+things, without destroying anything good that is associated
+with it.  Canaries don't die unless there is something that
+is out of wack that killed the bird.  Don't just them to
+supress change, or growth, but to ensure that change is
+happening at a pace that is within cognitive and cultural
+limits over larger time frames.  We are bad at recognizing
+canaries when they are just starting.  A canary should
+trigger at multiple thresholds -- the earliest patterns
+should indicate something that should be paid attention to,
+and if not corrected should trigger automatic negative
+feedback loops whether we've taken action or not.  This is
+what Slow AI is for.
+
 
 ** 9. Fashion
 Fashion patterns are ephemeral, throwing spaghetti at the
@@ -102,6 +123,25 @@ Commerce is interaction, Industry is production.
    - Journeymen
    - Apprentices
 ** 5. Culture
+ - everything has a story
+   - myths, legends, anecdotes, gossip
+   - sacred or canonical stories - forms a cultural encyclopedia
+ - generational change
+   - people can only change so much in a lifetime.
+   - after a certain age, can change little -- ranganathan's
+     book story 
+   - need to teach people when very young
+   - but children are also being taught by parents too old
+     to change.
+   - there is always room to push upper and lower limits of
+     cultural norms
+   - so change can not be faster than cultural norms will
+     permit in a given generation.
+   - change too fast, and people become unmoored from
+     culture, identity and are alienated from society and
+     each other.
+   - zero day change never works
+ - culture is largely derived from economic level of development
  - empirical pragmatism over subjective belief
  - * | Language
  - * | Family
