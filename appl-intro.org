@@ -180,6 +180,29 @@ the primer will be made up of six broad classes:
   - terms      : describe or define concepts and ideas
   - authorities: named instances of persons, places, events
 
+*** AntiPatterns
+
+Do we want to include antipatterns?  An antipattern is
+canary, something to guard against, so that if the canary
+dies, alarms should go off and action taken -- but
+antipatterns should not be binary, true or false, right or
+wrong.  They are patterns, that are dangerous when they gain
+momentum and don't become apparent until they have almost
+reached a tipping point.  Every canary must have multiple
+triggers that kick in a negative feedback loop that corrects
+things, without destroying anything good that is associated
+with it.  Canaries don't die unless there is something that
+is out of wack that killed the bird.  Just don't use them to
+supress change, or growth.  Use them to ensure that change is
+happening at a pace that is within cognitive and cultural
+limits over larger time frames.  We are bad at recognizing
+canaries when they are just starting.  A canary should
+trigger at multiple thresholds -- the earliest patterns
+should indicate something that should be paid attention to,
+and if not corrected should trigger automatic negative
+feedback loops whether we've taken action or not.  This is
+what Slow AI is for.
+
 ** Entity Stack
 
 A hierarchical stack using the FRBR entity model.
