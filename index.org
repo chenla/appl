@@ -28,31 +28,36 @@ bibliography:../hoard/bib.bib
  - [[./appl-intro.org][Introduction]]
 
 ** 9. Fashion
-Fashion patterns are ephemeral, throwing spaghetti at the
-wall that lower levels are watching to see what sticks.
 
-So I imagine that many of the Fashion patterns will be about
-how to give fashion the freedom to explore without fucking
-up lower layers.  This has always been an important function
-of any society, which comes in the form of setting limits on
-what you can mess with, where you can mess with it and
-defining the thresholds to ensure things don't get out of
-hand.  This is a delicate balance because it's important to
-pay attention to fashion and learn from it.
+ - Fashion Layer
 
-Fashion is all about risk taking, and risks are, well,
-risky.  There is a high rate of failure.
+   Fashion patterns are ephemeral, throwing spaghetti at the
+   wall that lower levels are watching to see what sticks.
 
-Fashion and popularity are bedfellows and popularity is a
-crude blunt instrument, but it has its uses so long as the
-popular comes at the expense of more important things,
-especially morals and ethics.  Popularity is always
-threatening to sweep away things that matter, populism, or
-pandering to what is popular is very dangerous because it
-preys on our cognitive shortcomings and plays to parts of
-our brain that reacts rather than considers.
+   So I imagine that many of the Fashion patterns will be
+   about how to give fashion the freedom to explore without
+   fucking up lower layers.  This has always been an
+   important function of any society, which comes in the
+   form of setting limits on what you can mess with, where
+   you can mess with it and defining the thresholds to
+   ensure things don't get out of hand.  This is a delicate
+   balance because it's important to pay attention to
+   fashion and learn from it.
 
-Fashion is where memes are born
+   Fashion is all about risk taking, and risks are, well,
+   risky.  There is a high rate of failure.
+
+   Fashion and popularity are bedfellows and popularity is a
+   crude blunt instrument, but it has its uses so long as
+   the popular comes at the expense of more important
+   things, especially morals and ethics.  Popularity is
+   always threatening to sweep away things that matter,
+   populism, or pandering to what is popular is very
+   dangerous because it preys on our cognitive shortcomings
+   and plays to parts of our brain that reacts rather than
+   considers.
+
+   Fashion is where memes are born
 
 ** 8. Commerce & Industry
 
