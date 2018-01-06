@@ -33,8 +33,8 @@
 obligation that makes cooperation possible and is one of the
 cornerstones of civilization.
 
-
 See links below until I can block out the problem more.
+Watch Aurora's presentation on Youtube.
 
 This is a good start, but it's very much something from this moment in
 time and history -- need to think about this in a broader LOC and
@@ -80,6 +80,25 @@ If the content or the client is:
 
 Then don’t allow them to use your products.
 
+** Carl Popper
+
+#+begin_quote
+[...] I do not imply, for instance, that we should always
+suppress the utterance of intolerant philosophies; as long
+as we can counter them by rational argument and keep them in
+check by public opinion, suppression would certainly be
+unwise.
+
+But we should claim the right to suppress them if necessary
+even by force; for it may easily turn out that they are not
+prepared to meet us on the level of rational argument, but
+begin by denouncing all argument; they may forbid their
+followers to listen to rational argument, because it is
+deceptive, and teach them to answer arguments by the use of
+their fists or pistols.
+
+-- Karl Popper, "The Open Society and its Enemies"
+#+end_quote
 ** Referances
 
   - [[https://boingboing.net/2018/01/05/big-tech-big-problems.html][The Paradox of Tolerance: should intolerance be tolerated?]] | Boing
