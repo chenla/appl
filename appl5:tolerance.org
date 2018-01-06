@@ -63,6 +63,11 @@ Google, Facebook and Twitter scales will never work.  Superpower
 scales will never work, at least for long.  Their complexity makes
 these systems unstable.
 
+I think the rule of thumb will become -- if you can't fully
+implement the rights expressed by a society because the size
+of a group has exceeded the ability to do so, then the group
+has to be broken up into smaller groups who can.
+
 We could take an approach that applies such rules at different scales.
 Different sized groups should be treated differently, majority is not
 the same as minority.  Global and local scales are not the same.
