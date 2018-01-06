@@ -64,7 +64,7 @@ scales will never work, at least for long.  Their complexity makes
 these systems unstable.
 
 I think the rule of thumb will become -- if you can't fully
-implement the rights expressed by a society because the size
+implement the rights protected by a society because of the size
 of a group has exceeded the ability to do so, then the group
 has to be broken up into smaller groups who can.
 
