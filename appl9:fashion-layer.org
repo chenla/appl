@@ -28,6 +28,9 @@
 :END:
 
 ** Introduction
+:PROPERTIES:
+:ID:       c61139f6-cb3b-4a63-91c8-25c4478582b0
+:END:
 
    Fashion patterns are ephemeral, throwing spaghetti at the
    wall that lower levels are watching to see what sticks.
