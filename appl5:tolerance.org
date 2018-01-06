@@ -1,0 +1,86 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: 05 Tolerance
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* 05 Tolerance
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/appl/appl5:tolerance.org
+:Created:  2018-01-06T18:49@Prek Leap (11.642600N-104.919210W)
+:ID:       d8e8f1b1-c509-4835-b8a6-d7a1fe03479d
+:VER:      568511438.249602312
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:UWT2-0101
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Introduction
+
+See links below until I can block out the problem more.
+
+This is a good start, but it's very much something from this moment in
+time and history -- need to think about this in a broader LOC and
+longer POV.
+
+The West is so tied up in knots at the moment about /identity/ that
+#2 feels like it's not going to age well.
+
+I also feel that the emphasis on targeting speech and actions against
+members of or multiple members of a /group/ is not the right way
+forward.  The US constition was careful to speak of the individual.
+The execptions came later -- gender, or slavery or race treated as a
+group.  Political parties are treated as groups, age is treated as
+different groups.
+
+Blanket rules that apply equally to all groups is not a bad idea, but
+it hasn't really been tried institutionally except for the classes
+mentioned above.  Aurora makes some excellent arguments.
+
+I think Doctorow's final comment about automated application of rules
+was good.  But there is no way to scale these things beyond human
+cognitive scales.  These are things that shouldn't be scaled and the
+solution is to keep groups within sizes where these things do work.
+
+Google, Facebook and Twitter scales will never work.  Superpower
+scales will never work, at least for long.  Their complexity makes
+these systems unstable.
+
+We could take an approach that applies such rules at different scales.
+Different sized groups should be treated differently, majority is not
+the same as minority.  Global and local scales are not the same.
+Individual and groups are different.
+
+** The Intolerable Speech Rule
+
+If the content or the client is:
+
+  1. Advocating for the removal of human rights
+  2. From people based on an aspect of their identity
+  3. In the context of systemic oppression primarily harming that
+     group
+  4. In a way that overall increases the danger to that group
+
+Then don’t allow them to use your products.
+
+** Referances
+
+  - [[https://boingboing.net/2018/01/05/big-tech-big-problems.html][The Paradox of Tolerance: should intolerance be tolerated?]] | Boing
+    Boing
+  - [[https://frameshiftconsulting.com/2017/09/10/the-intolerable-speech-rule-the-paradox-of-tolerance-for-tech-companies/][The Intolerable Speech Rule: the Paradox of Tolerance for tech
+    companies]] | Frame Shift Consulting
+  - http://files.frameshiftconsulting.com/Paradox%20of%20Tolerance.pdf
+  - [[https://en.wikipedia.org/wiki/Paradox_of_tolerance][Paradox of tolerance]] | Wikipedia
+
