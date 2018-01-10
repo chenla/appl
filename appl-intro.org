@@ -171,16 +171,17 @@ they are failed systems which tend to be ugly.
 
 ** Classes
 
-the primer will be made up of six broad classes:
+the primer will be made up of seven broad classes:
 
-  - narratives : story with a beginning, middle and end
-  - patterns   : recognizable set of relationships
-  - prescripts : description of procedural information 
-  - designs    : specification for contruction of made things
-  - terms      : describe or define concepts and ideas
-  - authorities: named instances of persons, places, events
+  - narratives   : story with a beginning, middle and end
+  - patterns     : recognizable set of relationships
+  - antipatterns : canary triggers
+  - prescripts   : description of procedural information 
+  - designs      : specification for contruction of made things
+  - terms        : describe or define concepts and ideas
+  - authorities  : named instances of persons, places, events
 
-*** AntiPatterns
+** AntiPatterns
 
 Do we want to include antipatterns?  An antipattern is
 canary, something to guard against, so that if the canary
@@ -202,6 +203,13 @@ should indicate something that should be paid attention to,
 and if not corrected should trigger automatic negative
 feedback loops whether we've taken action or not.  This is
 what Slow AI is for.
+
+In many cases, antipatterns will be considered by some
+people in different contexts to be possitive or desireable
+patterns.  For this reason each antipattern must have very
+strong arguments to support them, even if it is thought that
+the reasons are obvious.
+
 
 ** Entity Stack
 
