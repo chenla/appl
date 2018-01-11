@@ -41,14 +41,27 @@ Commerce is interaction, Industry is production.
  - markets
  - logistics
 ** 7. Infrastructure
+
+I like Steward Brand's comments about how broad
+infrastructure is.  But how to structure infrastructure?  Is
+the infrastructure for nature the same as for commerce?
+Does each layer's infrastructure build on on top of the
+other so that the upper layers are built atop the lower
+layers?  In a word, yes.  The more infrastructure is part of
+a distributed, federated commons the better and more
+antifragile it becomes.  Redundancies must be matched with
+fallback infrastructure -- it must gracefully degrade.
+
+
  - * | commons
    - forest, pasture, paths, ponds
    - roads, tunnels, bridges
    - knowledge & data
- - * | borders, possession & ownership
+ - * | the illusion of borders, possession & ownership
    - property
    - airspace
    - bandwidth
+ - degrade gracefully
  - * | network of local grids 
    - water
    - electric
@@ -58,7 +71,8 @@ Commerce is interaction, Industry is production.
    - trash collecting and processing
  - stockpiles -- banks, food stores, metals, commodities
    should be understood in terms of D. Meadows "size of
-   buffers"cite:meadows:1999leverage
+   buffers" cite:meadows:1999leverage
+
 
  - generation -- electic, cooling, storage, atmosphere
  - gas/electric charging stations
