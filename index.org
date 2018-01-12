@@ -53,7 +53,28 @@ antifragile it becomes.  Redundancies must be matched with
 fallback infrastructure -- it must gracefully degrade.
 
 
- - * | commons
+ - Mostly Commons
+
+   At the moment, it really sucks that Communists screwed up
+   the idea of collective ownership and cooperation so much
+   that it's still a dirty word.  The Commons is the bedrock
+   of any manifesttion of egalitarian social structure.  The
+   idea of private ownership is now so ingrained that many
+   people can't imagine any other way of doing things.  And
+   worst still, that they think that this is the natural
+   order of things.  The whole concept of owning land is a
+   social construct.  What communism missed was the concept
+   that a commons are something that we collectively are
+   stewards of -- that we have an obligation to protect and
+   manage and maintain and this requires everyone to
+   contribute.  Communism seemed to want to do away with the
+   traditional concept of a commons.
+
+   I need to go back and study up on Marxism and Communism
+   to see how wrong I am about all of this.  I'm talking
+   through my arse at the moment.
+
+
    - forest, pasture, paths, ponds
    - roads, tunnels, bridges
    - knowledge & data
