@@ -42,6 +42,81 @@ problem.
 We will employ five overlapping structures, which we will refer to as
 =graphs=, =maps=, =threads=, =layers=, and =heaps=.
 
+*** Notes
+
+I've been looking a lot deeper into Big History -- it's
+ambitious and comprehensive, with a lot of effort spent on
+critical thinking, reading, writing and debating skills.
+
+They see BHP as a origin story from an empirical, rational,
+scientific POV that can be used as a framework for all
+knowledge.  I agree.  But where BHP is basically a high
+school social studies course, I want to take the same
+approach to university studies -- as a framework for a
+modern take on the Trivium which would provide people with
+the equivilent of a Laurea degree that would be a foundation
+for lifelong learning.
+
+And then we will broaden the scope to use it as a framework
+for building civilization -- with patterns, designs and slow
+ai systems SAI that will manage long term processes in the
+lower pace layers that keep us on track over time scales
+which are too slow for us as individuals to see.
+
+I was thinking about The Young Lady's Illustrated Primer,
+which is meant to guide small girls all the way up to the
+end of high school age.  After that a whole library opens up
+for the girl that includes all of the advanced subject, but
+they are  no long within the narrative structure of the
+primer.  The student becomes a master who can then write her
+own story.
+
+There isn't much mentioned about the more practical things
+the primer is teaching, but I am sure that the ideas behind
+BHP would fit in well.
+
+The fact that the Primer is structured as an interactive
+narrative that takes place in a fairy-tale world is
+important.  We need stories and shared myths and legands
+that provide us with shared narratives.  Shared mythos is
+the cement that holds us together.
+
+This is the thing missing from BHP, and I am not sure how to
+provide it.  In the tech community Star Wars and LOTR and
+Star Trek and Harry Potter come closest to providing such a
+mythological framework,
+
+Harry Potter is the closest to being an over-arching epic
+that does what I'm looking for but it's missing some key
+elements.
+
+Magic is a something that will mesh well with working with
+AIs, incantations and spells are kinds of computer programs
+which run when they are cast.
+
+Harry Potter is also something that children can grow up
+with.  The books grow up as the children grow up.  The
+stories become more complex and subtle as children are able
+to understand more and more as they grow up.
+
+We need to imbed a mythos into the interface layer of our
+cultural pace layers that interact with technolgy.  A
+narrative fictional structure works well for this.
+
+Different cultures could have their own narrative
+structures, I wish we could create a single one for everyone
+to use.  But there are too many differences in the form of
+climate, history, language that need to be localized for
+there to be a one-size-fits all.  Harry Potter hinted that
+magical world's in different countries are very different.
+
+But it's also important that there are not too many
+different narratives.  After all the idea here is that these
+are shared narratives is critical.  We don't want this to
+splinter into thousands of tiny narratives, like religions
+in India.
+
+
 *** Graphs**
 The primer can best be understood as a =directed graph= that is a set
 of =vertices=, or /nodes/ which are connected to other nodes by
