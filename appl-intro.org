@@ -30,17 +30,19 @@ bibliography:../hoard/bib.bib
 
 ** Introduction
 
-It's been said that the way we organize information mirrors the power
-structure of what is being organized.  If you reorganize the
-information it will reorganize the power structure and vice versa.  So
-we must take extreme care that the way we structure a primer for
-building and maintaining a civilization from first principles reflects
-the power structure of the civilization we are building. It takes
-little thought to come to the conclusion this is a non-trivial
-problem.
+It's been said that the way we organize information mirrors
+the power structure of what is being organized.  If you
+reorganize the information it will reorganize the power
+structure and vice versa.  So we must take extreme care that
+the way we structure a primer for building and maintaining a
+civilization from first principles reflects the power
+structure of the civilization we are building. It takes
+little thought to come to the conclusion this is a
+non-trivial problem.
 
-We will employ five overlapping structures, which we will refer to as
-=graphs=, =maps=, =threads=, =layers=, and =heaps=.
+We will employ five overlapping structures, which we will
+refer to as =graphs=, =maps=, =threads=, =layers=, and
+=heaps=.
 
 *** Notes
 
