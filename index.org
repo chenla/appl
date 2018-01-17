@@ -164,7 +164,9 @@ fallback infrastructure -- it must gracefully degrade.
      - breathable pressurized atmosphere
      - environment: regulated temperature 
      - rest: sleep
+     - water
      - food
+     - light
      - medical care
      - shelter: 
      - transporation
