@@ -159,7 +159,12 @@ fallback infrastructure -- it must gracefully degrade.
    - Life --> soverign existence, base thresholds for living and dieing
    - Liberty (of movement, self determination)
    - Speech:  expression
-   - privacy
+   - Information: access
+   - Participation: voting, ritual etc
+   - Opportunity
+   - Communication: one to one and one to many
+   - Education
+   - Privacy
    - Physical: deprivation of these things can never be used as incentive 
      - breathable pressurized atmosphere
      - environment: regulated temperature 
@@ -167,15 +172,11 @@ fallback infrastructure -- it must gracefully degrade.
      - water
      - food
      - light
+     - gravity
      - medical care
      - shelter: 
      - transporation
      - material goods
-     - education
-     - access to information
-     - participation: voting, ritual etc
-     - opportunity
-     - communication: one to one and one to many
      - safety: from physical and mental harm
  - Obligations
    - The Golden Rule
