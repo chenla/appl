@@ -41,56 +41,23 @@ Commerce is interaction, Industry is production.
  - markets
  - logistics
 ** 7. Infrastructure
-
-I like Steward Brand's comments about how broad
-infrastructure is.  But how to structure infrastructure?  Is
-the infrastructure for nature the same as for commerce?
-Does each layer's infrastructure build on on top of the
-other so that the upper layers are built atop the lower
-layers?  In a word, yes.  The more infrastructure is part of
-a distributed, federated commons the better and more
-antifragile it becomes.  Redundancies must be matched with
-fallback infrastructure -- it must gracefully degrade.
-
-
  - Mostly Commons
-
-   At the moment, it really sucks that Communists screwed up
-   the idea of collective ownership and cooperation so much
-   that it's still a dirty word.  The Commons is the bedrock
-   of any manifesttion of egalitarian social structure.  The
-   idea of private ownership is now so ingrained that many
-   people can't imagine any other way of doing things.  And
-   worst still, that they think that this is the natural
-   order of things.  The whole concept of owning land is a
-   social construct.  What communism missed was the concept
-   that a commons are something that we collectively are
-   stewards of -- that we have an obligation to protect and
-   manage and maintain and this requires everyone to
-   contribute.  Communism seemed to want to do away with the
-   traditional concept of a commons.
-
-   I need to go back and study up on Marxism and Communism
-   to see how wrong I am about all of this.  I'm talking
-   through my arse at the moment.
-
-
    - forest, pasture, paths, ponds
    - roads, tunnels, bridges
    - knowledge & data
- - * | the illusion of borders, possession & ownership
+ - Borders: illusion, possession & ownership
    - property
    - airspace
    - bandwidth
- - degrade gracefully
- - * | network of local grids 
+ - Degrade gracefully
+ - Network of local grids 
    - water
    - electric
    - info: compute, cognition, storage
    - fuels -- petro, bio, gas -- solid/liquid/gas 
    - sewage collction and processing
    - trash collecting and processing
- - stockpiles -- banks, food stores, metals, commodities
+ - Stockpiles -- banks, food stores, metals, commodities
    should be understood in terms of D. Meadows "size of
    buffers" cite:meadows:1999leverage
 
@@ -130,9 +97,6 @@ fallback infrastructure -- it must gracefully degrade.
    http://www.oas.org/dsd/publications/Unit/oea59e/ch27.htm
    https://en.wikipedia.org/wiki/Nanfang_Caomu_Zhuang
  - Palm Circles
-
-
-
 
 ** 6. Governance
  - representation
