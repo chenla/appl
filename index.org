@@ -113,10 +113,17 @@ fallback infrastructure -- it must gracefully degrade.
    - Journeymen
    - Apprentices
 ** 5. Culture
- - everything has a story
-   - myths, legends, anecdotes, gossip
-   - sacred or canonical stories - forms a cultural encyclopedia
- - generational change
+ - Shared Stories
+   - everything has a story
+   - Art
+   - Calendars
+     - Microseasons (climate, food, tasks)
+   - Mythos:  myths, legends, anecdotes, gossip
+   - Sacred or canonical stories - forms a cultural
+     encyclopedia
+   - Personified Ideas: gods, graces, angels, muses
+   - Origin stories
+ - Generational Change
    - people can only change so much in a lifetime.
    - after a certain age, can change little -- ranganathan's
      book story 
@@ -130,35 +137,45 @@ fallback infrastructure -- it must gracefully degrade.
    - change too fast, and people become unmoored from
      culture, identity and are alienated from society and
      each other.
-   - zero day change never works
+   - antipattern: zero day change
  - culture is largely derived from economic level of development
- - empirical pragmatism over subjective belief
+ - empirical pragmatism:  over subjective belief
  - * | Language
- - * | Family
- - * | Cultural Rituals
+ - Family
+ - Rituals
    - Birth
    - Coming of Age
    - Mastery (graduation, titles)
    - Marriage & Divorce
    - Retirement
    - Death
- - * | Shared Stories
-   - Art
-   - Calendars
-     - Microseasons (climate, food, tasks)
-   - Mythos
- - Lifelong Learning
  - Cognitive Toolbox
- - Rights Group
-   - life --> soverign existence, base thresholds for living and dieing
-   - liberty (of movement, self determination)
-   - speech
+   - Lifelong Learning
+   - Starting at Eleven
+   - Critical Thinking
+   - Fnords, Facts and Falsehoods
+   - Multipass Reading
+ - Rights
+   - Life --> soverign existence, base thresholds for living and dieing
+   - Liberty (of movement, self determination)
+   - Speech:  expression
    - privacy
-   - base air, sleep & rest , food, medical care, shelter transporation & material goods
-       deprivation of these things can never be used as incentive 
-   - education
-   - access to information & communication
- - Obligations Group
+   - Physical: deprivation of these things can never be used as incentive 
+     - breathable pressurized atmosphere
+     - environment: regulated temperature 
+     - rest: sleep
+     - food
+     - medical care
+     - shelter: 
+     - transporation
+     - material goods
+     - education
+     - access to information
+     - participation: voting, ritual etc
+     - opportunity
+     - communication: one to one and one to many
+     - safety: from physical and mental harm
+ - Obligations
    - The Golden Rule
    - Enlightened Self Interest
    - Informed Participation
