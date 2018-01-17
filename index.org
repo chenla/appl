@@ -95,11 +95,45 @@ fallback infrastructure -- it must gracefully degrade.
    buffers" cite:meadows:1999leverage
 
 
+ - Habitats: Identifiable Biospheres
+ - Independent Bioregions: 2-8 million
+   - APL1. Indepdent Regions
+   - APL2. Distribution of Towns
+ - Major Cities: 500,000
+ - Communities and Towns: 5-10,000
+   - APL. Community of 7,000
+ - Neighborhoods: 500-100
+ - House Clusters and Work Communities: 30-50
+ - Families and Workgroups: 1-15 
+
+
+
  - generation -- electic, cooling, storage, atmosphere
  - gas/electric charging stations
  - logistics
  - transactions: currency & exchange
- - buildings
+
+ - Structures
+
+
+ - Managed Ecosystems
+ - Agriculture
+
+ - Mimicing Ecosystems
+
+
+ - Agricultural Zones (Mollison)
+ - Hügelkultur (raised beds)
+ - Chinampa ("floating" beds) and Waru Waru
+   https://en.wikipedia.org/wiki/Chinampa
+   https://en.wikipedia.org/wiki/Waru_Waru
+   http://www.oas.org/dsd/publications/Unit/oea59e/ch27.htm
+   https://en.wikipedia.org/wiki/Nanfang_Caomu_Zhuang
+ - Palm Circles
+
+
+
+
 ** 6. Governance
  - representation
  - judgement 
@@ -187,34 +221,23 @@ fallback infrastructure -- it must gracefully degrade.
    - [[./appl5:tolerance.org][Tolerance]]
 ** 4. Anthros
 
-cognition & biological patterns
-  - transactive species
-  - * | Cognitive Limits
+ - Biology
+   - Diurnal Cycles
+   - Bands, Tribes
+ - Transactive species
+ - Cognitive Limits
     - magic number 7
     - 150
     - small world problem
 
 ** 3. Bios
 
- - * | Building Blocks
+ - Building Blocks
    - sugars
    - salts
    - starches
    - proteins
-
- - Identifiable Biospheres
- - Independent Bioregions
- - Mimicing Ecosystems
- - Managed Ecosystems
-
- - Agricultural Zones (Mollison)
- - Hügelkultur (raised beds)
- - Chinampa ("floating" beds) and Waru Waru
-   https://en.wikipedia.org/wiki/Chinampa
-   https://en.wikipedia.org/wiki/Waru_Waru
-   http://www.oas.org/dsd/publications/Unit/oea59e/ch27.htm
-   https://en.wikipedia.org/wiki/Nanfang_Caomu_Zhuang
- - Palm Circles
+ - DNA 
 
 ** 2. Lithos
  - Rock, Iron & Ice
@@ -302,35 +325,26 @@ cognition & biological patterns
 
    - the cosmic holarchy   --> everything is nested part/whole
                            --> everything forms a directed graph
-
- - SYSTEMS
-   - living systems        --> the opposite is dead heaps
-                           --> complexity results in uncertainty
-
-   - distributed systems   --> lots of copies keep stuff safe
-   - feedback loops        --> negative and positive
-   - buffers               --> stockpiles and reserves 
-   - constants             --> hardwired numbers we can't change
-   - variables             --> things you can tinker with 
-   - delays                --> points to causal propagation
-   - diversity             -->  
-
 -----
 
  - the continuum of civilization
  - [[./appl0:antifragile.org][Antifragile Civilization]]
  - A Multi-Basket Humanity
- - * | Dual Nature
+ - Dual Natures
    - [[./appl0:janus.org][Janus Pattern]] (Whole Part)
- - * | Context
-   - Level of Detail (LOD)
+ - Context
+   - Level of Detail (LOD): coastline paradox
    - Point of View (POV) 
    - Rate of Change (ROT)
- - * | Systems
+ - Systems
+   - living systems
+   - distribution
    - constants & variables
    - buffers
    - stock-and-flow
    - latency
+   - delays
+   - diversity
    - negative feedback loops
      - goal
      - sensor and signal
