@@ -46,4 +46,22 @@ Biospheres do not necessarily need to be self-contained or even
 self-sustaining to qualify though there is certainly a case to be made
 that biospheres should be self-contained and self-sustaining.
 
+A biosphere can contain either an atmosphere or a hydrosphere or a
+combination of both.
 
+Biospheres are made up of smaller bioregions, and bioregions made up
+of smaller biomes.
+
+Biospheres are systems, with negative and positive regulatory feedback
+systems.  ISS is a biosphere because it has a crude regulatory
+atmosphere that scrubs CO2 from the air, replenishes oxygen, maintains
+a stable temperature and shields occupants from excessive light.
+
+In the case of earth's biosphere it should be remembered that the
+biosphere does not provide gravity, the lithosphere in the form of the
+mass of the planet provides both gravity and a magnetic field which
+helps support life.
+
+
+
+ 
