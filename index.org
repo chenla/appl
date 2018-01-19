@@ -158,7 +158,7 @@ Commerce is interaction, Industry is production.
    - Reading
    - Watching
    - Listening
-   - Wriing 
+   - Writing 
    - Speaking
  - Rights
    - Life --> soverign existence, base thresholds for living and dieing
@@ -197,9 +197,9 @@ Commerce is interaction, Industry is production.
    - Bands, Tribes
  - Transactive species
  - Cognitive Limits
-    - magic number 7
-    - 150
-    - small world problem
+   - magic number 7
+   - 150
+   - small world problem
 
 ** 3. Bios
 
