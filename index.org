@@ -61,7 +61,7 @@ Commerce is interaction, Industry is production.
    buffers" cite:meadows:1999leverage
 
 
- - [[./appl7-biopheres.org][Distinct Biospheres]]: Habitats
+ - [[./appl7-biospheres.org][Distinct Biospheres]]: Habitats
  - Independent Bioregions: 2-8 million
    - APL1. Indepdent Regions
    - APL2. Distribution of Towns
