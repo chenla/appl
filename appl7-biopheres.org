@@ -1,0 +1,49 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Distinct Biospheres
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* Distinct Biospheres
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/appl/appl7-biopheres.org
+:Created:  2018-01-19T21:52@Prek Leap (11.642600N-104.919210W)
+:ID:       562f9712-5808-40df-8ee2-15daa1712a44
+:VER:      569645633.198778839
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:WEL5-4860
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Introduction
+
+At the time of this writing there are only two biospheres, that of the
+earth and the tiny biosphere in a hodgepodge of tin cans that is
+called the International Space Station (ISS).
+
+We define a biosphere as a self-contained environment that serves the
+function of a habitat that can support multiple forms of life.
+
+We do not include biospheres that are nested within biospheres because
+if you crack them open they simply become part of that biosphere.  If
+you crack open the ISS, any living thing inside that is not in a space
+suit will die.  Space suits, or the inside of a Soyez or space capsule
+or other vehicles are a types of transitional biosphere.
+
+Biospheres do not necessarily need to be self-contained or even
+self-sustaining to qualify though there is certainly a case to be made
+that biospheres should be self-contained and self-sustaining.
+
+

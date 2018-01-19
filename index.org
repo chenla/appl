@@ -35,13 +35,12 @@ bibliography:../hoard/bib.bib
 
 Commerce is interaction, Industry is production.
 
-
- - supply & demand
- - production
- - markets
- - logistics
+ - Supply & Demand
+ - Production
+ - Markets
+ - Logistics
 ** 7. Infrastructure
- - Mostly Commons
+ - Collective Commons
    - forest, pasture, paths, ponds
    - roads, tunnels, bridges
    - knowledge & data
@@ -62,7 +61,7 @@ Commerce is interaction, Industry is production.
    buffers" cite:meadows:1999leverage
 
 
- - Habitats: Identifiable Biospheres
+ - [[./appl7-biopheres.org][Distinct Biospheres]]: Habitats
  - Independent Bioregions: 2-8 million
    - APL1. Indepdent Regions
    - APL2. Distribution of Towns
