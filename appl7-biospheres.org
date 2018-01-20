@@ -36,13 +36,13 @@ possible.
 This is the one thing that we must take with us wherever we go, so
 long as we are biological creatures.
 
-So we need a definition of what a biosphere is -- in terms of
-civilization and as infrastructure -- and what the bare minimum
+We need a definition of what a biosphere is -- in terms of
+civilization as infrastructure -- and what the bare minimum
 requirements are needed to consitute a biosphere, and what the
-requirements are for a self-contained self-sustaining biosphere 
+requirements are for a self-contained self-sustaining biosphere.
 
 This creates a baseline for life, human survival and for civilization
-not only to survive but to thrive -- what makes an ant-fragile
+not only to survive but to thrive -- what makes an anti-fragile
 biosphere?
 
 ---
@@ -81,5 +81,3 @@ mass of the planet provides both gravity and a magnetic field which
 helps support life.
 
 
-
- 
