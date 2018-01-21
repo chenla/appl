@@ -81,3 +81,16 @@ mass of the planet provides both gravity and a magnetic field which
 helps support life.
 
 
+--- 
+
+  - atmospheric gas mixture -  nitrogen/oxygen
+  - atmospheric pressure    -  
+  - temperature             -  liquid water
+  - UV protection
+  - solar and cosmic radiation protection
+  - light
+
+
+Do we need a baseline set of micro organisms?
+
+---
