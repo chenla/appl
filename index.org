@@ -40,6 +40,7 @@ Commerce is interaction, Industry is production.
  - Markets
  - Logistics
 ** 7. Infrastructure
+ - [[./appl7:infrastructure.org][Infrastructure Layer]]
  - Collective Commons
    - forest, pasture, paths, ponds
    - roads, tunnels, bridges
