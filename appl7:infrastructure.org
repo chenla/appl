@@ -29,3 +29,46 @@
 
 ** Introduction
 
+Infrastructure is near the top of the Pace Layer stack, but it is
+pretty slow.
+
+No one wants to invest in infrastructure because repairing a bridge
+has to be done, but it's not perceived to be a benefit, so people tend
+to put off maintaining infrastructure until it becomes critical.
+
+New infrastructure is an obvious immediate benifit but is expensive
+and always complex because in most cases you are displacing people and
+property that is being used for other things and there will be a lot
+of pushback against proposals.
+
+Steward Brand developed a model for buildings that the Pace Layer
+model is based on.  He observed that buildings can be thought of as
+being made of of layers that change (replaced, repaired etc) at
+different rates.  The furniture in a building might change every year
+or so, whereas the building's foundation is rarely repaired or
+replaced.
+
+This is a useful way of thinking about any kind of infrastructure.
+
+
+----
+
+One of my favorite examples of thinking ahead in terms of
+infrastructure is found in Thailand and Cambodia.  When national road
+systems were planned out as much as fifty years ago or more, land was
+allocated for future needs.  So land was set aside for four lane
+highways, and utilities were positioned on the far edge of the the
+property even though only a two lane road was actually constructured
+which may not have be expanded for forty years or more.
+
+The government then was consistent in keeping people from building on
+this land, so that when the roads were expanded, starting in the
+1990's it was a straight forward process of adding lanes and replacing
+the older bridges with larger ones.  The bridges were very old by this
+point so they needed replacing anyway.
+
+----
+
+The lower shearing layers should be watched and maintained by Slow AI
+systems who save and determine when things need to be replaced or
+repaired before they fail.
