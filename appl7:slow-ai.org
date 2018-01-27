@@ -32,3 +32,77 @@
 I'm not really sure where to put this -- because it might be, in fact
 infrastrucuture, but it will be working at layers as deep as Bios...
 
+** Cascading Scope
+
+Slow AI uses filters to only notice things that are around a while --
+you need to set an ROC where you notice things that have happened
+repeatedly or still exist over a defined time-frame.
+
+This can cascade -- so that a scope of 1 day, cascades to a scope of 1
+year which cascades to a scope of 10 years etc.
+
+It's the same damn thing as in Anathem without the physical math.
+
+This makes it possible for slow things to work slowly, otherwise it
+would have to process everything in real time and ignore most things
+until they become significant.
+
+If you have a cascade then you tune in to the pace layer that is
+working at that pace.  A scope that is working at a 100yr ROC wouldn't
+have to run more than a few times a year.  But it will have processes
+that are listening on ports in real time to respond to things that may
+require it to solve a problem at that scope.
+
+If something is detected at a lower ROC, it will kick it down the
+layers. 
+
+** Slow Distributed Networks
+
+Slow AI must be antifragile and able to work around all of the same
+dangers that archival storage presents:
+
+  - accident
+  - calamity
+  - temporary insanity
+  - benign neglect
+
+A large part of this will be how slow ai is able to communicate
+between all of it's parts -- the system should be viewed as a single
+planetary (and later multiplanetary) AI that works at the bios,
+anthros, culture, governance and infrastructure layers.  So it would
+be best that it's core means of communication is independent of other
+fast intentional networks such as the Internet.  SAI works at very
+slow speeds so, like tree beard, anything they can say over the
+network takes a long time to say and they they never say anything
+unless it's worth taking a long time to say it.
+
+
+
+One of the problems with slow ai is infrastructure for it to
+communicate over the network.  Since fast infrastructure is constantly
+changing and slow AI may have problems maintaining connections over
+long time frames perhaps we can use ultraslow radio to create a very
+slow disributed network for slow ai systems.
+
+https://www.mail-archive.com/kragen-tol@canonical.org/msg00303.html
+
+Clocks use this approach today to listen into broadcast time signals
+and self-correct.  The clocks need very simple cheap hardware to
+listen.
+
+Broadcasting would require more power and hardwae, but not as much as
+you might think -- if we created a slow radio mesh network, this would
+be very cheap indeed.  A small number of higher power repeaters could
+be sprinkled around, and all of the AI systems then contribute to
+paying for and maintaining them.
+
+Since these systems are very low bandwidth, and can be built to be
+very unobtrusive and hard to detect, this could be an ideal way of
+building the network -- perhaps we combine mesh with a store and
+forward approach to maintaining long term archives that periodically
+use sneakernets to do large bandwidth transfers that might take
+decades to complete.  Think of dead drops that sit for a decade or
+more before being picked up or put down.  It would take generations
+for any bad actors to figure out even some of where the network nodes
+are and even then the system will be changing in slow motion as well,
+so slow that no one will know it's happening.
