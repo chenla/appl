@@ -60,7 +60,7 @@ Commerce is interaction, Industry is production.
  - Stockpiles -- banks, food stores, metals, commodities
    should be understood in terms of D. Meadows "size of
    buffers" cite:meadows:1999leverage
-
+ - [[./appl7:slow-ai.org][Slow AI]]
 
  - [[./appl7-biospheres.org][Distinct Biospheres]]: Habitats
  - Independent Bioregions: 2-8 million

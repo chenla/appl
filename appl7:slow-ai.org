@@ -1,0 +1,34 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Slow AI
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* Slow AI
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/appl/appl7:slow-ai.org
+:Created:  2018-01-27T10:34@Prek Leap (11.642600N-104.919210W)
+:ID:       06d174a2-413c-4de4-8930-548c4c9c3884
+:VER:      570296152.121807814
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:QXH5-0062
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Introduction
+
+I'm not really sure where to put this -- because it might be, in fact
+infrastrucuture, but it will be working at layers as deep as Bios...
+
