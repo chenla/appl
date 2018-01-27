@@ -28,13 +28,17 @@
 :END:
 
 ** Introduction
+:PROPERTIES:
+:ID:       c0f391d8-b350-4475-8ad2-06fb0cce7aad
+:END:
 
 Infrastructure is near the top of the Pace Layer stack, but it is
 pretty slow.
 
 No one wants to invest in infrastructure because repairing a bridge
-has to be done, but it's not perceived to be a benefit, so people tend
-to put off maintaining infrastructure until it becomes critical.
+has to be done, but it's not perceived to be an attractive immediate
+benefit, so people tend to put off maintaining infrastructure until it
+becomes critical.
 
 New infrastructure is an obvious immediate benifit but is expensive
 and always complex because in most cases you are displacing people and
