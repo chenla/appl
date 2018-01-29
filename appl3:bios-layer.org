@@ -1,0 +1,75 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Bios Layer
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* Bios Layer
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/appl/appl3:bios-layer.org
+:Created:  2018-01-29T11:43@Prek Leap (11.642600N-104.919210W)
+:ID:       d3ce891b-1164-417f-8f2e-378e6e69e73b
+:VER:      570473058.502921209
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:TOV4-6536
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Introduction
+
+The Bios Layer is the layer created by life.  And life has created and
+shaped the biosphere -- given us a oxygen-based atmosphere, and
+carbon-stores which are located in the lithosphere.
+
+I was thinking about rivers today -- specifically the Mekong -- and
+how there is no real atmospheric equivilent of a hydrosphere in a
+river.
+
+A river is always in motion it's quite literally going from one place
+to another.  River ecosystems are distinct from lake/pond or ocean/sea
+ecosystems.  Migration to spawning grounds is one difference though
+there is migration in the oceans -- but it seems to be different in
+rivers.
+
+River deltas are the interface between fresh and salt water ecosystems
+
+The head of a river like the Mekong is in the Himalayan glaciers --
+which is a water-store.  But the transition there is a state change
+from solid to liquid, from cold to warm.
+
+It got me thinking about Mars -- most mars ice is in the south polar
+regions, but we don't want to live there any more than we want to live
+in the antarctic.  The equator actually get's warm enough for light
+clothing for very short periods of time.  The poles are very fucking
+cold all the time.
+
+But we could treat the southern water like the Mekong does the
+Himalayan glaciers -- mine ice in the south, warm and extract CO2 from
+the atmostphere and add oxygen from the water progressively move it
+north to the equators in enclosed rivers so that the atmosphere
+becomes a river as much as the water.  The river would then move down
+and feed crater habitats -- in fact everything would revolve around
+these mother rivers.
+
+Each habitat could them grow breathable atmospheres which are
+processed by microbes eating the CO2 in the lower pressure upper
+layers of domes -- that atmosphere would not be static just acting as
+a radiation shield and pressure barrier against the near vacuum
+outside, but would be a pressurized atmomspheric river. 
+
+The new domes process atmostphere and eventually become habitats, and
+the habitats get a breathable atmosphere and clean water first to grow
+food and then underground where industry and urban life will largely
+take place.

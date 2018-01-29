@@ -202,6 +202,10 @@ Commerce is interaction, Industry is production.
    - small world problem
 
 ** 3. Bios
+ - [[./appl3:bios-layer.org][Bios Layer]]
+ - Biosphere 1
+   - Atmosphere
+   - Hydrosphere
 
  - Building Blocks
    - sugars
