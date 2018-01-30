@@ -215,6 +215,7 @@ Commerce is interaction, Industry is production.
  - DNA 
 
 ** 2. Lithos
+ - [[./appl2:lithos-layer.org][Lithos Layer]]
  - Rock, Iron & Ice
  - * | Elements
    - Carbon
@@ -325,6 +326,4 @@ Commerce is interaction, Industry is production.
      - sensor and signal
      - response mechanism
    - positive feedback loops
-
-
 
