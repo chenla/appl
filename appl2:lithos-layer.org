@@ -29,3 +29,9 @@
 
 ** Introduction
 
+Does the anthos layer have any impact on the lithos?  I think that's
+the main question.
+
+At the moment it would seem conditionally to be yes, but only if
+changes can be measured in geological time-scales.
+
