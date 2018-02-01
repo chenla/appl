@@ -29,9 +29,33 @@
 
 ** Introduction
 
-Does the anthos layer have any impact on the lithos?  I think that's
-the main question.
+ - [[https://en.wikipedia.org/wiki/Lithosphere][Lithosphere]] | Wikipedia
 
-At the moment it would seem conditionally to be yes, but only if
-changes can be measured in geological time-scales.
+We will use a rather broad definition of lithos -- to
+include any natural infrastructure that supports a
+biosphere.  Wholly fabricated infrastructure belongs to the
+infrastructure layer.
+
+When talking about planetoid lithospheres we're talking
+about not just the crust and mantle (which is technically
+the lithosphere) but the whole ball of wax including
+magnetic fields created by metalic cores etc. because the
+don't really fit in any other layer.  After all this is a
+pace layer not limited to the geological term.
+
+---
+
+Plate tectonics is a kind of interface where the biosphere
+interacts with the lithosphere to bury carbon which becomes
+carbon stores that can be used for fuel (coal, oil and gas).
+
+There is also limestone, which is composed of corals and
+other marine life.
+---
+
+Does the anthros layer have any impact on the lithos?  I
+think that's an important question.
+
+At the moment it would seem conditionally to be yes, but
+only if changes can be measured in geological time-scales.
 
