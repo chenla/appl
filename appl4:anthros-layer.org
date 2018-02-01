@@ -1,0 +1,72 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Anthros Layer
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* Anthros Layer
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/appl/appl4:anthros-layer.org
+:Created:  2018-02-01T15:45@Prek Leap (11.642600N-104.919210W)
+:ID:       2b860705-5071-41ae-9ec3-2772add8285c
+:VER:      570746793.787826173
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:KXC1-2347
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Introduction
+
+[[Anthropcene][Anthropocene - Wikipedia]]
+
+Even five years there was a lot of kickback on use of the term
+Anthropocene but it seems to be largely accepted, largely becuase
+climate change has been accepted as fact (except for the nut jobs) and
+the argument now has turned to when the anthropocene started.
+
+I'm in the camp that argues that neolithic man has reshaped the
+earth's climate using fire.  The fact that the smallpox plague that
+wiped out most humans in North America resulted in a little iceage and
+in the span of less than a hundred years north american ecosystems
+underwent massive change without millions of people shaping forests
+and grasslands with fire....
+
+It is in this layer I want to take up the idea of patterns that
+describe not just Man, but Mankind and how to define what Mankind is
+and how it makes more sense to understand us as a system of animals
+and plants which we shape and which shape up.  Domesicated plants and
+animals are part of the greater Mankind -- as well as other now
+extinct species of Man in the past, and the newer species of Man that
+will start emerging as Man takes full control of genetic engineering
+and begins to adapt to life in other parts of the solarsystem.
+
+The interesting thing is that because we will be in control of these
+changes there is no reason why humans will not be able to round-trip
+and morph into forms for life in zero-g or very low-g on places like
+the moon, or that might be more tolerant of atmospheric CO2, or life
+in aquatic enviromments etc.  And then later be able to morph back.
+It likely will never be instant or easy, but it will become safe and
+commonplace.  Animals will be reshaped to better interact with man as
+well, by giving say dogs with the ability to verbalize when
+communicating with people.
+
+And let's not forget AI as being a member of the human family as
+well.  AI will come in a dizzying range of levels of intelligence,
+consciousness and capabilities and we will need to respect these
+beings as not only being worthy of respect but understanding that they
+are indeed part of us.
+
+Anything that is created or made by Mankind, including civilization
+should be in higher layers.

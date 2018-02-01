@@ -191,7 +191,7 @@ Commerce is interaction, Industry is production.
    - Contribution (time, mind, material wealth???)
    - [[./appl5:tolerance.org][Tolerance]]
 ** 4. Anthros
-
+ - [[./appl4:anthros-layer.org][Anthros Layer]]
  - Biology
    - Diurnal Cycles
    - Bands, Tribes
