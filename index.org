@@ -163,7 +163,7 @@ Commerce is interaction, Industry is production.
  - Rights
    - Life --> soverign existence, base thresholds for living and dieing
    - Liberty (of movement, self determination)
-   - Speech:  expression
+   - [[./appl5:speech.org][Speech]]:  expression
    - Information: access
    - Participation: voting, ritual etc
    - Opportunity

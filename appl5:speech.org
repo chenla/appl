@@ -1,0 +1,116 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Freedom of Speech
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* Freedom of Speech
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/appl/appl5:speech.org
+:Created:  2018-02-09T17:19@Prek Leap (11.642600N-104.919210W)
+:ID:       d2474d94-ec55-435e-a28a-c06637270a26
+:VER:      571443660.138035796
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:HAO8-2140
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+bibliography:../hoard/bib.bib
+
+** Introduction
+
+#+begin_quote
+"If liberty means anything at all, it means the right to tell people
+what they do not want to hear”
+
+— From George Orwell's proposed preface to Animal Farm (1945).
+  cite:jennings:2017orwell
+#+end_quote
+
+#+begin_quote
+Fuck that right! I want the right to talk
+I want the right to speak, I want the right to walk
+Where I wanna, yell and I'm gonna 
+....
+
+You'll censor what we see, we read, we hear, we learn
+The books will burn
+You better think it out
+We should be able to say anything, our lungs were meant to shout
+Say what we feel, yell out what's real
+Even though it may not bring mass appeal
+Your opinion is yours, my opinion is mine
+If you don't like what I'm sayin'? Fine
+But don't close it, always keep an open mind
+A man who fails to listen is blind
+
+-- "Freedom of Speech" Body Count, Ice-T
+#+end_quote
+
+
+
+free speech is directly proportionate to the size of your audience.
+
+the larger the audience, the less you can say without offending
+someone
+
+freedom of speech, as an inalienable right is about inverting that
+truth to protect the minority opinion, the offending, the patently
+ubsurd the blatantly offensive.
+
+to limit or silence speech or expression because it does not adhere to
+the majority is to do nothing less than  ??
+
+free speech is not about truth or falsehoods -- both majorities and
+minorities at times lie through their teeth and others are exemplars
+or resounding eternal truths.  And it's never quite certain in the
+moment which it might be.  Something that sounds perfectly reasonable,
+honest and obvious today may well be reguarded as bigoted, shallow
+minded hogwash a few decades hence.  In this, as in all things,
+context is everything.
+
+Let the slower pace-layers rock away[1] the detritus discarding the
+hurried ephemeral, to preserve what's of value in larger and longer
+contexts.
+
+
+
+
+** References
+
+contributors, W., /Freedom of speech --- wikipedia, the free
+encyclopedia/ (2018).
+url: [[https://en.wikipedia.org/wiki/Freedom_of_speech][Freedom of speech]] | Wikipedia
+cite:wiki:2017freedom-speech
+
+van Mill, D., Freedom of speech, In E. N. Zalta (Eds.), The Stanford
+Encyclopedia of Philosophy (pp. ) (2017). : Metaphysics Research Lab,
+Stanford University.
+url: [[https://plato.stanford.edu/entries/freedom-speech/][Freedom of Speech]] | Stanford Encyclopedia of Philosophy
+cite:sep:2017freedom-speech
+
+Jennings, M., /Orwell Statue Unveiled/ (2017).
+cite:jennings:2017orwell
+
+How does this relate to 
+
+
+
+
+Footnotes: 
+
+[1] /Yuri-ita/ (揺り板), Japanese for "rocking plate", used
+for panning gold with a rocking motion.
+
