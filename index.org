@@ -249,7 +249,9 @@ Commerce is interaction, Industry is production.
    - hydrochloric acid
    - nitric acid
    - potassium nitrate (saltpeter)
-** 1. Cosmos
+** 1. Helios
+ - [[./appl1:helios-layer.org][Helios Layer]]
+** 0. Cosmos
 :PROPERTIES:
 :ID:       1205e5b5-b37c-4c25-b928-dd8cf8391b70
 :END:
