@@ -31,7 +31,7 @@ bibliography:../hoard/bib.bib
 
  - [[./appl9:fashion-layer.org][Fashion Layer]]
 
-** 8. Commerce & Industry
+** 8. Commerce
  - [[./appl8:commerce-layer.org][Commerce Layer]]
  - Supply & Demand
  - Production
