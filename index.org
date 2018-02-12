@@ -37,7 +37,7 @@ Commerce is interaction, Industry is production.
 
  - Supply & Demand
  - Production
- - Markets
+ - Transaction
  - Logistics
 ** 7. Infrastructure
  - [[./appl7:infrastructure.org][Infrastructure Layer]]
