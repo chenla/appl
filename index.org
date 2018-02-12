@@ -253,6 +253,9 @@ bibliography:../hoard/bib.bib
 :PROPERTIES:
 :ID:       1205e5b5-b37c-4c25-b928-dd8cf8391b70
 :END:
+ - [[./appl0-cosmos-layer.org][Cosmos Layer]]
+
+
  - COSMOLOGICAL
    - it from bit           --> binary nature of quantum events
                            -   information is physical
