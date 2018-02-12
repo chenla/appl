@@ -32,9 +32,7 @@ bibliography:../hoard/bib.bib
  - [[./appl9:fashion-layer.org][Fashion Layer]]
 
 ** 8. Commerce & Industry
-
-Commerce is interaction, Industry is production.
-
+ - [[./appl8:commerce-layer.org][Commerce Layer]]
  - Supply & Demand
  - Production
  - Transaction
