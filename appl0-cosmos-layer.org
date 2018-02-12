@@ -93,3 +93,9 @@ beyond us, which should leave us humbled and awed, but at the same
 time not forget that at present we have no idea how much we will be
 able to learn so long as we are determined to observe and strive to
 understand what we observe.
+
+One of the most directly useful of the cosmos patterns is the concept
+of a /light cone/ -- which provides us with a handy means of
+understanding and calculating how change and information propagates.
+This is a crucial pattern that provides limits to many things that an
+advanced technological civilization can do.
