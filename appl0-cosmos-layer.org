@@ -102,7 +102,7 @@ understanding and calculating how change and information propagates.
 This is a crucial pattern that provides limits to many things that an
 advanced technological civilization can do.
 
-** Reclaiming Metaphysics
+** Metaphysical Maps
 
 #+begin_quote
 If we take in our hand any volume; of divinity or school
@@ -125,6 +125,8 @@ both useful and relevant in a way that would not cause David
 Hume to roll over in his grave by treating science as a
 territory and metaphysics as a map.
 
+  - related: [[https://www.st-andrews.ac.uk/~kjh5/OnlinePapers/ScienceAsAGuideToMetaphysics.pdf  ][Science as a Guide to Metaphysics]]
+
 Before Einstein, the scientific understanding of how the
 world works was not wildly out of sync with the way that
 humans experience the world.  It made sense in a way that a
@@ -144,12 +146,45 @@ to have been able to construct the advanced technological
 civilization that we live in today without the understanding
 of the world presented by Quantum Mechanics.
 
+---
 
+World maps (as in mental models of how the world works) go
+to the very core of what it is to be human.  We need to be
+able to boil things down into simple things that make sense,
+even if we know that it's an approximation, metaphor or
+analogy because it is through these things that we grasp
+concepts and make connections to other concepts.
 
+Mythological stories are the oldest form of World Maps,
+which later became dogmatic origin stories used by religions
+and other kinds of belief systems.  There is great power in
+myth, so much power that as Tolkien observed, you can not
+have language without myth.  Stories provide a common
+reference point between people communicating with each
+other.  There is no communication without both parties
+sharing common knowledge -- stories.
 
-Metaphysics
-  - cosmology
-  - ontology
+But Metaphysics and science also has stories, such as
+Plato's Cave or Schrödinger's cat or even Maxwell's Demon.
+These kinds of stories may serve us better than traditional
+myths, as being ways for us to understand a world which is
+very different from the way we experience it.
+
+Mythological stories belong to the culture layer where
+science belongs largely to infrastructure.
+
+Our understanding of the world now goes deeper than culture
+down to the very bones of the universe.  This is why we put
+metaphysical maps in the cosmos layer along with a
+metaphysics that is more a meta-science, a meta-physics
+describing how physics describes the universe.  These maps
+will change as our understanding of the universe
+changes. These are stories that describe time and space,
+causality and existence.
+
+       EXAMPLE METAPHYSICAL MAP
+
+Recommendation -- 
 
 * Footnotes
 
