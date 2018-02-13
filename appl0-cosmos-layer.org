@@ -94,8 +94,63 @@ time not forget that at present we have no idea how much we will be
 able to learn so long as we are determined to observe and strive to
 understand what we observe.
 
+---
+
 One of the most directly useful of the cosmos patterns is the concept
 of a /light cone/ -- which provides us with a handy means of
 understanding and calculating how change and information propagates.
 This is a crucial pattern that provides limits to many things that an
 advanced technological civilization can do.
+
+** Reclaiming Metaphysics
+
+#+begin_quote
+If we take in our hand any volume; of divinity or school
+metaphysics, for instance; let us ask, Does it contain any
+abstract reasoning concerning quantity or number? No. Does
+it contain any experimental reasoning concerning matter of
+fact and existence? No. Commit it then to the flames: for it
+can contain nothing but sophistry and illusion.
+
+— David Hume (1748). An Enquiry Concerning Human Understanding. §132.
+#+end_quote
+
+In recent years (circa 2018) the popular definition of the
+word "meta' has come to mean something that is about the
+thing itself.  Two classic examples would be, a film about
+making films, or a footnote to explain what footnotes are.[fn:1]
+
+I would like to make the case that Metaphysics can still
+both useful and relevant in a way that would not cause David
+Hume to roll over in his grave by treating science as a
+territory and metaphysics as a map.
+
+Before Einstein, the scientific understanding of how the
+world works was not wildly out of sync with the way that
+humans experience the world.  It made sense in a way that a
+an eleven year old could understand.  This is not to say
+that the scientific revolutions that came before Einstein
+were easy for many people to accept.  The Coppernican and
+Darwinian revolutions were so difficult to embrace for some
+people that there are still knuckle draggers who have
+managed to come to terms with them.
+
+In the last hundred  years Relativity was introduced by
+Einstein and later Neil Bohrs & Co. introduced Quantum
+Mechanics which was so outlandish that even Einstein could
+not stomache it.  And yet Quantum Mechanics has consistently
+been confirmed experimentally and it would be inconceivable
+to have been able to construct the advanced technological
+civilization that we live in today without the understanding
+of the world presented by Quantum Mechanics.
+
+
+
+
+Metaphysics
+  - cosmology
+  - ontology
+
+* Footnotes
+
+[fn:1] [[%20%5B%5Bhttps://www.urbandictionary.com/define.php?term=meta%5D%5Bmeta%5D%5D%20|%20Urban%20Dictionary][meta]] | Urban Dictionary (accessed 2018-02-12).
