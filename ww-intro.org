@@ -57,6 +57,13 @@ until after they had all but completed APL.
 
 TWB is divided into three Parts: The Quality, The Gate, and The Way.
 
+   Quality if QWAN.
+
+   The Gate is the Patterns.
+
+   The Way is how to get QWAN using the patterns.
+
+
 The organization of the book also is design to work at multiple LODs,
 like /The Plan of St. Gall/ with an outline of the entire work, and
 then detailed TOCs at the beginning of each volume.
@@ -96,3 +103,13 @@ one on mars.
 In that respect I suppose we can borrow many things from Mollison's
 Designer's Manual -- which is, in many respects, a path between TWB
 and PSG.
+
+The whole pace-layer model will take a bit to lay out -- and we will
+have to make a case for why we are on the wrong path, and how we have
+no choice but to start from first principles.
+
+
+  - models
+  - map-territory
+  - pace-layer
+  - quality
