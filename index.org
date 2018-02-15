@@ -96,7 +96,7 @@ bibliography:../hoard/bib.bib
  - Palm Circles
 
 ** 6. Governance
- - [[./appl06:governance.org][Goverance Layer]]
+ - [[./appl6:governance.org][Goverance Layer]]
  - representation
  - judgement 
  - force
@@ -109,6 +109,7 @@ bibliography:../hoard/bib.bib
    - Journeymen
    - Apprentices
 ** 5. Culture
+ - [[./appl5:culture-layer.org][Culture Layer]]
  - Shared Stories
    - everything has a story
    - Art
