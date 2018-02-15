@@ -28,7 +28,6 @@ bibliography:../hoard/bib.bib
  - [[./appl-intro.org][Introduction]]
 
 ** 9. Fashion
-
  - [[./appl9:fashion-layer.org][Fashion Layer]]
 
 ** 8. Commerce
@@ -97,6 +96,7 @@ bibliography:../hoard/bib.bib
  - Palm Circles
 
 ** 6. Governance
+ - [[./appl06:governance.org][Goverance Layer]]
  - representation
  - judgement 
  - force
