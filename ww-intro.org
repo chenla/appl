@@ -57,7 +57,7 @@ until after they had all but completed APL.
 
 TWB is divided into three Parts: The Quality, The Gate, and The Way.
 
-   Quality if QWAN.
+   Quality is QWAN.
 
    The Gate is the Patterns.
 
@@ -109,7 +109,19 @@ have to make a case for why we are on the wrong path, and how we have
 no choice but to start from first principles.
 
 
-  - models
+
+  - pace-layers
+  - systems
   - map-territory
-  - pace-layer
+  - models
   - quality
+  - craftsmanship
+
+Big History is a linear timeline, Warp & Woof is a kind of process
+philosophy where past is part of the present -- and the future does no
+exist you can't go into the future or back to the past because time is
+not linear -- we are living in the Big Bang, we are part of the Big
+Bang, it didn't create the universe, it's still going on, it IS the
+universe.
+
+
