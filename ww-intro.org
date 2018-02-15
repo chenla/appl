@@ -130,17 +130,34 @@ an origin story and then build on top of that.  But this shouldn't be
 where we start -- W&W is where we start, followed by APPL, and then
 the primer.  
 
+W&W and APPL is meta -- it is the primer for the primer.
+
+** Primer
+
 The origin story is the first part of the primer,[fn:1] followed by the
 theses (declarations), then education (triv, quad, laurea etc), then
 the shops and guilds, then the value-chain, then bioregions, and
 finally production.
 
+  - origin
+  - theses
+  - education
+  - shops & guilds
+  - value-chain
+  - bioregions
+  - production -- techne
+
+** Hoard
+
 After the primer is the Hoard -- the library of descriptive and
-prescriptive knowledge.
+prescriptive knowledge.  This will be a map but a very detailed map
+whose territory is the archive.
+
+** Archive
 
 After that is the Archive of all recorded memory and experience.
 
-W&W and APPL is meta -- it is the primer for the primer.
+
 
 * Footnotes
 
