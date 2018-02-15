@@ -10,6 +10,9 @@
 
 bibliography:../hoard/bib.bib
 
+* Warp and Woof
+ - [[./ww-intro.org][Warp & Woof Intro]]
+
 * APPL | Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
