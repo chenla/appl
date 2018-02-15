@@ -11,6 +11,7 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+bibliography:../hoard/bib.bib
 
 * Warp & Woof Introduction
 :PROPERTIES:
@@ -28,4 +29,37 @@
 :END:
 
 ** Introduction
+
+W&W will be to APPL that /A Timeless Way of Building/ 
+(TWB) cite:alexander:1979timeless is to APL. cite:alexander:1977pattern
+
+
+TWB starts with this:
+
+#+begin_quote
+/The Timeless Way of Building/ is the first in a series of books which
+describe an entirely new attitude to architecture and planning.  The
+books are intended to provide a complete working alternative to our
+present ideas about architecture, building, and planning—an
+alternative which will, we hope, gradually replace current ideas and
+practices.
+
+— A Timeless Way of Building
+  cite:alexander:1979timeless
+#+end_quote
+
+Replace architecture and building with civilization and it's not a bad
+description of W&W and APPL.
+
+TWB was published two years after APL, which answers the chicken and
+egg question, but it also makes sense.  TWB couldn't have been written
+until after they had all but completed APL.
+
+TWB is divided into three Parts: The Quality, The Gate, and The Way.
+
+The organization of the book also is design to work at multiple LODs,
+like /The Plan of St. Gall/ with an outline of the entire work, and
+then detailed TOCs at the beginning of each volume.
+
+
 
