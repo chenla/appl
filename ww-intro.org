@@ -109,19 +109,50 @@ have to make a case for why we are on the wrong path, and how we have
 no choice but to start from first principles.
 
 
-
+  - information
+  - process
+  - part-whole
   - pace-layers
-  - systems
+  - systems & distributed systems
+  - models & graphs
   - map-territory
-  - models
   - quality
   - craftsmanship
 
-Big History is a linear timeline, Warp & Woof is a kind of process
-philosophy where past is part of the present -- and the future does no
-exist you can't go into the future or back to the past because time is
-not linear -- we are living in the Big Bang, we are part of the Big
-Bang, it didn't create the universe, it's still going on, it IS the
-universe.
+Warp & Woof is a kind of process philosophy where past is part of the
+present -- and the future does no exist you can't go into the future
+or back to the past because time is not linear -- we are living in the
+Big Bang, we are part of the Big Bang, it didn't create the universe,
+it's still going on, it IS the universe.
+
+Do we need an origin book?  My instinct has always been to begin with
+an origin story and then build on top of that.  But this shouldn't be
+where we start -- W&W is where we start, followed by APPL, and then
+the primer.  
+
+The origin story is the first part of the primer,[fn:1] followed by the
+theses (declarations), then education (triv, quad, laurea etc), then
+the shops and guilds, then the value-chain, then bioregions, and
+finally production.
+
+After the primer is the Hoard -- the library of descriptive and
+prescriptive knowledge.
+
+After that is the Archive of all recorded memory and experience.
+
+W&W and APPL is meta -- it is the primer for the primer.
+
+* Footnotes
+
+[fn:1] What about language?  Origins lays out our history which is
+tells what our metaphysics and physics.  The nuts and bolts of laguage
+will be in the Triv.  but I'm talking about something deeper, more
+structural -- language both spoken, written and executable -- a
+language of the long now that will change far slower than language at
+the upper pace layers -- it will change, but over centuries and
+milennia not years and decades.  It should be something that is stable
+for long periods of time.  Different pace-layers will have different
+versions of it, the fashion layer tries out new ideas which are
+filtered and refined until they change the lowest layers.
 
 
