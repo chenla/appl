@@ -1,0 +1,31 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Culture Layer
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* Culture Layer
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/appl/appl5:culture-layer.org
+:Created:  2018-02-15T20:15@Prek Leap (11.642600N-104.919210W)
+:ID:       52febc37-e3a8-45da-b3e4-baa2cacd73f5
+:VER:      571972610.076558103
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:OTS6-6362
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Introduction
+
