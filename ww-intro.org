@@ -108,6 +108,15 @@ The whole pace-layer model will take a bit to lay out -- and we will
 have to make a case for why we are on the wrong path, and how we have
 no choice but to start from first principles.
 
+** Warp & Woof
+
+The primer for the primer -- a kind of process philosophy where past
+is part of the present -- and the future does no exist you can't go
+into the future or back to the past because time is not linear -- we
+are living in the Big Bang, we are part of the Big Bang, it didn't
+create the universe, it's still going on, it IS the universe.
+
+*** 
 
   - information
   - process
@@ -119,18 +128,16 @@ no choice but to start from first principles.
   - quality
   - craftsmanship
 
-Warp & Woof is a kind of process philosophy where past is part of the
-present -- and the future does no exist you can't go into the future
-or back to the past because time is not linear -- we are living in the
-Big Bang, we are part of the Big Bang, it didn't create the universe,
-it's still going on, it IS the universe.
+*** The Plan of Arc Indradevi
 
-Do we need an origin book?  My instinct has always been to begin with
-an origin story and then build on top of that.  But this shouldn't be
-where we start -- W&W is where we start, followed by APPL, and then
-the primer.  
 
-W&W and APPL is meta -- it is the primer for the primer.
+
+*** The Plan of Barsoon Dor
+
+
+** APPL
+
+structures used by the primer
 
 ** Primer
 
@@ -144,7 +151,7 @@ finally production.
   - education
   - shops & guilds
   - value-chain
-  - bioregions
+  - bioregions/ecosystems
   - production -- techne
 
 ** Hoard
