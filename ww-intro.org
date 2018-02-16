@@ -159,13 +159,30 @@ biosphere.
 I'd like to approach the Dubai project with the proposal so do three
 scenarios for them as well -- one will be our Barsoom Dor scenarios
 but in addition two others that explore what a traditional top down
-design and construction process might look out and how they would
+design and construction process might look like and how they would
 compare to our generative approach.
 
 This would be done by holding scenario conclaves where we invite
 different traditional architects, engineers and builders and work out
 the long term consequences of top down approaches.
 
+To keep participants honest, all scenarios will follow examples from
+history of what has happened to planned urban areas in the past.  We
+ask them first to come up with a design and 20 year master plan in
+brief and then we see how the plan will adapt over time to things that
+they didn't plan for.
+
+But how to do that?  I suppose we have two teams the design teams, the
+governance teams and then the historical teams who would through
+events at them which came from historical examples.
+
+One of the scenarios is that after 50 years, Mars is cut off from
+Earth for the next 50 years.
+
+We will also throw at them things that will basically force them to
+abandon a lot of their initial assumptions after the settlement is
+essentially built.  Can they adapt, and in order to adapt how will it
+impact their original designs?
 
 ** APPL
 
