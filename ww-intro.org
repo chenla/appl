@@ -59,12 +59,9 @@ completed APL.
 TWB is divided into three Parts: The Quality, The Gate, and
 The Way.
 
-   Quality is QWAN.
-
-   The Gate is the Patterns.
-
-   The Way is how to get QWAN using the patterns.
-
+   - /Quality/ is QWAN.
+   - /The Gate/ is the Patterns.
+   - /The Way/ is how to get QWAN using the patterns.
 
 The organization of the book also is design to work at
 multiple LODs, like /The Plan of St. Gall/ with an outline
@@ -86,8 +83,8 @@ The Oregon Experiment (which I still haven't seen) seems to
 be where he shows a concrete example of how to plan, design,
 and build.
 
-So what about W&W?  We don't need to cross any bridges that
-Alexandar should have, but at the same time we need to
+So what about W&W?  We don't need to build the same bridges
+that Alexandar should have, but at the same time we need to
 bridge the gulf of how civilization is today, how the
 present attempts at change are useless and all but
 worthless.  So I suppose we do need bridges.  But is W&W to
@@ -155,7 +152,7 @@ create three different 100 year scenarios of how that plan
 might be realized depending on different climate change,
 political, and economic scenarios globally and regionally.
 
-*** The Plan of Barsoon Dor
+*** The Plan of Barsoom Dor
 
 Basically the same thing as Indradevi, but how the same
 thing might be achieved on Mars.
@@ -168,9 +165,9 @@ hydrosphere that make up a distributed biosphere.
 
 *** Dubai Martian City
 
-I'd like to approach the Dubai project with the proposal so
-do three scenarios for them as well -- one will be our
-Barsoom Dor scenarios but in addition two others that
+I'd like to approach the Dubai Mars City project with the
+proposal to do three scenarios for them as well -- one will
+be our Barsoom Dor scenarios but in addition two others that
 explore what a traditional top down design and construction
 process might look like and how they would compare to our
 generative approach.
@@ -301,6 +298,28 @@ forms that are little different from slavery as well.
 After the primer is the Hoard -- the library of descriptive and
 prescriptive knowledge.  This will be a map but a very detailed map
 whose territory is the archive.
+
+This will be the knowledge that is assembled to build a
+civilization from first principles -- this will include
+designs, standards, recipes, facts, proceedures, best
+practices.
+
+The idea is that you will pick out your patterns and create
+your pattern language which is at the core of a master
+generative plan -- then you use the knowledge from the Hoard
+to build it.
+
+A pattern might be for outdoor windows, and what they must
+incorporate to work.  The Hoard will provide the information
+for obtaining or creating the building material, wooden,
+plastic or metal frame, plate glass, glazing, screws,
+caulking and all of the tools needed to build it and then
+more general proscriptive steps that make up the art of
+glass making, and window framing.
+
+The Archive will be all of the primary documents that the
+Hoard is built on.
+
 
 ** Archive
 
