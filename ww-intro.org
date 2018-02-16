@@ -182,8 +182,45 @@ doing now.
   - education
   - shops & guilds
   - value-chain
+  - 
   - bioregions/ecosystems
-  - production -- techne
+  - production & surpluses
+    - slavery/mass labour -> machinery -> cognitive machines
+
+*** Slavery and Civilization
+
+Two sides to slavery; surplus mind and muscle, you need both to create
+a surplus that leads to surpluses that free a proportion of the
+population to pursue intellectual pursuits that result in advancements
+in technology, sciences and the arts.
+
+This follows toffler -- force -> wealth -> knowledge
+
+  - domesticated animals had the muscle but not the mind so you still
+    needed slaves who were compelled through physical force to direct
+    the beasts.
+
+  - machines had the muscle but not the mind so you needed captive
+    labour in the form of factory workers who were economically
+    compelled to work to direct the machines.  This system is more
+    flexible and scalable than slavery.
+
+  - when you use machine cognition to direct the machines you get
+    robots which does not require compelled human labor.  Ths system
+    is more flexible and scalable than mass indusitural human labor.
+
+So when you hear claims that it was machines that were responsible for
+ending slavery they are both right and wrong.  The nature of slavery
+simply changed from a model based on physical force, to a model based
+on symbolic wealth.  The work force might have the illusion of being
+free but for all practical purposes it was still slavery.  This then
+frames the other claim that it was the development of moral and
+ethical motivations that ended slavery.  Those moral arguements were
+used to change the nature of slavery, not to end it.  And in so doing
+was able to scale slavery to proportions that couldn't have been
+dreamed of in the wildest dreams of the most barbaric banna
+plantation in central America or Cotton farm in the old south.
+
 
 ** Hoard
 
