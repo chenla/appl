@@ -48,14 +48,16 @@ practices.
   cite:alexander:1979timeless
 #+end_quote
 
-Replace architecture and building with civilization and it's not a bad
-description of W&W and APPL.
+Replace architecture and building with civilization and it's
+not a bad description of W&W and APPL.
 
-TWB was published two years after APL, which answers the chicken and
-egg question, but it also makes sense.  TWB couldn't have been written
-until after they had all but completed APL.
+TWB was published two years after APL, which answers the
+chicken and egg question, but it also makes sense.  TWB
+couldn't have been written until after they had all but
+completed APL.
 
-TWB is divided into three Parts: The Quality, The Gate, and The Way.
+TWB is divided into three Parts: The Quality, The Gate, and
+The Way.
 
    Quality is QWAN.
 
@@ -64,57 +66,65 @@ TWB is divided into three Parts: The Quality, The Gate, and The Way.
    The Way is how to get QWAN using the patterns.
 
 
-The organization of the book also is design to work at multiple LODs,
-like /The Plan of St. Gall/ with an outline of the entire work, and
-then detailed TOCs at the beginning of each volume.
+The organization of the book also is design to work at
+multiple LODs, like /The Plan of St. Gall/ with an outline
+of the entire work, and then detailed TOCs at the beginning
+of each volume.
 
 
 
-TWB is almost mystical -- it does not come across as a practical text
-on how to build according to his philosophy and methodology.  It's
-almost a manifesto.  This was on purpose, but as some reviews have
-noted, it could be one reason that it hasn't been treated as seriously
-as it should.  It's too outside of the mainstream, too easy to dismiss
-and doesn't provide a bridge for architects and builders to cross from
-their world into his.
+TWB is almost mystical -- it does not come across as a
+practical text on how to build according to his philosophy
+and methodology.  It's almost a manifesto.  This was on
+purpose, but as some reviews have noted, it could be one
+reason that it hasn't been treated as seriously as it
+should.  It's too outside of the mainstream, too easy to
+dismiss and doesn't provide a bridge for architects and
+builders to cross from their world into his.
 
-The Oregon Experiment (which I still haven't seen) seems to be where
-he shows a concrete example of how to plan, design, and build.
+The Oregon Experiment (which I still haven't seen) seems to
+be where he shows a concrete example of how to plan, design,
+and build.
 
-So what about W&W?  We don't need to cross any bridges that Alexandar
-should have, but at the same time we need to bridge the gulf of how
-civilization is today, how the present attempts at change are useless
-and all but worthless.  So I suppose we do need bridges.  But is W&W
-to be a bridge or manifesto?
+So what about W&W?  We don't need to cross any bridges that
+Alexandar should have, but at the same time we need to
+bridge the gulf of how civilization is today, how the
+present attempts at change are useless and all but
+worthless.  So I suppose we do need bridges.  But is W&W to
+be a bridge or manifesto?
 
-I don't want to be too mystical, but I also don't want to be too
-concrete which is why I'm so attracted to the Plan of St Gall (PSG).
-St Gall was never built -- so the designs based on the plan are -- as
-the title says -- paradigmatic. PSG delves deep providing historical,
-social, economic and archaeological context and evidence.
+I don't want to be too mystical, but I also don't want to be
+too concrete which is why I'm so attracted to the Plan of St
+Gall (PSG).  St Gall was never built -- so the designs based
+on the plan are -- as the title says -- paradigmatic. PSG
+delves deep providing historical, social, economic and
+archaeological context and evidence.
 
-So I suppose that W&W needs to blaze a path between the two -- so that
-it's part Timeless Way and Part Plan of Arc Nong Pao.
+So I suppose that W&W needs to blaze a path between the two
+-- so that it's part Timeless Way and Part Plan of Arc Nong
+Pao.
 
-In fact that's about right -- first volume should be closer to TWB and
-the following volumes should provide three Plans -- two on earth and
-one on mars.
+In fact that's about right -- first volume should be closer
+to TWB and the following volumes should provide three Plans
+-- two on earth and one on mars.
 
-In that respect I suppose we can borrow many things from Mollison's
-Designer's Manual -- which is, in many respects, a path between TWB
-and PSG.
+In that respect I suppose we can borrow many things from
+Mollison's Designer's Manual -- which is, in many respects,
+a path between TWB and PSG.
 
-The whole pace-layer model will take a bit to lay out -- and we will
-have to make a case for why we are on the wrong path, and how we have
-no choice but to start from first principles.
+The whole pace-layer model will take a bit to lay out -- and
+we will have to make a case for why we are on the wrong
+path, and how we have no choice but to start from first
+principles.
 
 ** Warp & Woof
 
-The primer for the primer -- a kind of process philosophy where past
-is part of the present -- and the future does no exist you can't go
-into the future or back to the past because time is not linear -- we
-are living in the Big Bang, we are part of the Big Bang, it didn't
-create the universe, it's still going on, it IS the universe.
+The primer for the primer -- a kind of process philosophy
+where past is part of the present -- and the future does no
+exist you can't go into the future or back to the past
+because time is not linear -- we are living in the Big Bang,
+we are part of the Big Bang, it didn't create the universe,
+it's still going on, it IS the universe.
 
 *** Part One -- name ?????
 
@@ -130,59 +140,67 @@ create the universe, it's still going on, it IS the universe.
 
 *** The Plan of Arc Indradevi
 
-A bioregion in n.e. cambodia.  Rather than my original concept of
-doing the plan for the Arc itself like PSG, we do a plan for an entire
-bioregion and ecosystem for of 2 million people all living and working
-as part of a global distributed micro-value-chain.
+A bioregion in n.e. cambodia.  Rather than my original
+concept of doing the plan for the Arc itself like PSG, we do
+a plan for an entire bioregion and ecosystem for of 2
+million people all living and working as part of a global
+distributed micro-value-chain.
 
-The Arc will be just one part of the larger plan -- that will include
-infrastructure, agriculture, production, economic, education,
-governance and culture.
+The Arc will be just one part of the larger plan -- that
+will include infrastructure, agriculture, production,
+economic, education, governance and culture.
 
-I suppose the plan would be a master plan, and we would create three
-different 100 year scenarios of how that plan might be realized
-depending on different climate change scenarios.
+I suppose the plan would be a master plan, and we would
+create three different 100 year scenarios of how that plan
+might be realized depending on different climate change,
+political, and economic scenarios globally and regionally.
 
 *** The Plan of Barsoon Dor
 
-Basically the same thing as Indradevi, but how the same thing might be
-achieved on Mars.
+Basically the same thing as Indradevi, but how the same
+thing might be achieved on Mars.
 
-A man-made underground river (not a tunnel, but a river with banks and
-air above) that runs from south towards the equator that is fed by ice
-from antarctic to domes in warmer climes.  The river feed domes that
-create atmosphere, and hydrosphere that make up a distributed
-biosphere.
+A man-made underground river (not a tunnel, but a river with
+banks and air above) that runs from south towards the
+equator that is fed by ice from antarctic to domes in warmer
+climes.  The river feed domes that create atmosphere, and
+hydrosphere that make up a distributed biosphere.
 
 *** Dubai Martian City
 
-I'd like to approach the Dubai project with the proposal so do three
-scenarios for them as well -- one will be our Barsoom Dor scenarios
-but in addition two others that explore what a traditional top down
-design and construction process might look like and how they would
-compare to our generative approach.
+I'd like to approach the Dubai project with the proposal so
+do three scenarios for them as well -- one will be our
+Barsoom Dor scenarios but in addition two others that
+explore what a traditional top down design and construction
+process might look like and how they would compare to our
+generative approach.
 
-This would be done by holding scenario conclaves where we invite
-different traditional architects, engineers and builders and work out
-the long term consequences of top down approaches.
+This would be done by holding scenario conclaves where we
+invite different traditional architects, engineers and
+builders and work out the long term consequences of top down
+approaches.
 
-To keep participants honest, all scenarios will follow examples from
-history of what has happened to planned urban areas in the past.  We
-ask them first to come up with a design and 20 year master plan in
-brief and then we see how the plan will adapt over time to things that
-they didn't plan for.
+To keep participants honest, all scenarios will follow
+examples from history of what has happened to planned urban
+areas in the past.  We ask them first to come up with a
+design and 20 year master plan in brief and then we see how
+the plan will adapt over time to things that they didn't
+plan for.
 
-But how to do that?  I suppose we have two teams the design teams, the
-governance teams and then the historical teams who would through
-events at them which came from historical examples.
+But how to do that?  I suppose we have two teams the design
+teams, the governance teams and then the historical teams
+who would through events at them which came from historical
+examples.
 
-One of the scenarios is that after 50 years, Mars is cut off from
-Earth for the next 50 years.
+One of the scenarios is that after 50 years, Mars is cut off
+from Earth for the next 50 years.  This might mean being
+physically cut from all contact, or or economically cut off
+when funding dries up for support.
 
-We will also throw at them things that will basically force them to
-abandon a lot of their initial assumptions after the settlement is
-essentially built.  Can they adapt, and in order to adapt how will it
-impact their original designs?
+We will also throw at them things that will basically force
+them to abandon a lot of their initial assumptions after the
+settlement is essentially built.  Can they adapt, and in
+order to adapt how will it impact their original designs?
 
 ** APPL
 
@@ -190,37 +208,40 @@ structures used by the primer
 
 ** Primer
 
-The origin story is the first part of the primer,[fn:1] followed by the
-theses (declarations), then education (triv, quad, laurea etc), then
-the shops and guilds, then the value-chain, then bioregions, and
-finally production.
+The origin story is the first part of the primer,[fn:1]
+followed by the theses (declarations), then education (triv,
+quad, laurea etc), then the shops and guilds, then the
+value-chain, then bioregions, and finally production.
 
-Man started out just as any other animal on the savannah, but
-development of tools, then speech and finally writing resulted in an
-estrangement that in our minds that estranged us from the world and
-who we were that seemed to have started with Aristotle and all of
-those god damned lists and categories.  It wasn't until the Copernican
-Revolution which showed that there was nothing special about where we
-were in the universe that we began the slow process of decentering.
-The Darwinian Revolution was the second decentering which taught us
-that we are just one more creature in a vast fabric of life and that
-all of the rules apply to all of us, we are no exception. I believe
-that we are at the brink of a third which will teach us that our minds
-and our intelligence is nothing special either.  We've fallen a long
-way and we are still falling.  And as anyone who has jumped out of an
-airplane could tell you, the fall is nothing to be afraid of, it's
-when the ground breaks your fall that you have to worry
-about. Intelligence is all around us, we are simply too caught up in
-ourselves to notice.  I hope that when Man does hit bottom that it
-will leave us humbled and capable of living within the limits of the
-ecosystems that we are part of.  That doesn't mean we will stop
-hacking them and shaping them for our own purposes, but it will have
-to be with an understanding that we either find a way of living within
-the carrying capacity of where we live, or we die.  You can not
-increase carrying capacity by using up or abusing resources faster
-than they can be replaced.  If you can hack nature to increase
-sustainible carrying capacity great -- but that is not what Man is
-doing now.
+Man started out just as any other animal on the savannah,
+but development of tools, then speech and finally writing
+resulted in an estrangement that in our minds that estranged
+us from the world and who we were that seemed to have
+started with Aristotle and all of those god damned lists and
+categories.  It wasn't until the Copernican Revolution which
+showed that there was nothing special about where we were in
+the universe that we began the slow process of decentering.
+The Darwinian Revolution was the second decentering which
+taught us that we are just one more creature in a vast
+fabric of life and that all of the rules apply to all of us,
+we are no exception. I believe that we are at the brink of a
+third which will teach us that our minds and our
+intelligence is nothing special either.  We've fallen a long
+way and we are still falling.  And as anyone who has jumped
+out of an airplane could tell you, the fall is nothing to be
+afraid of, it's when the ground breaks your fall that you
+have to worry about. Intelligence is all around us, we are
+simply too caught up in ourselves to notice.  I hope that
+when Man does hit bottom that it will leave us humbled and
+capable of living within the limits of the ecosystems that
+we are part of.  That doesn't mean we will stop hacking them
+and shaping them for our own purposes, but it will have to
+be with an understanding that we either find a way of living
+within the carrying capacity of where we live, or we die.
+You can not increase carrying capacity by using up or
+abusing resources faster than they can be replaced.  If you
+can hack nature to increase sustainible carrying capacity
+great -- but that is not what Man is doing now.
 
 
   - origin
