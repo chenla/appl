@@ -136,8 +136,12 @@ bioregion and ecosystem for of 2 million people all living and working
 as part of a global distributed micro-value-chain.
 
 The Arc will be just one part of the larger plan -- that will include
-infrastructure, agriculture, production, education, governance and
-culture.
+infrastructure, agriculture, production, economic, education,
+governance and culture.
+
+I suppose the plan would be a master plan, and we would create three
+different 100 year scenarios of how that plan might be realized
+depending on different climate change scenarios.
 
 *** The Plan of Barsoon Dor
 
@@ -146,9 +150,21 @@ achieved on Mars.
 
 A man-made underground river (not a tunnel, but a river with banks and
 air above) that runs from south towards the equator that is fed by ice
-from antarctic to domes in warmer climes.  The river feed domes where
-that create atmosphere, and hydrosphere that make up a distributed
+from antarctic to domes in warmer climes.  The river feed domes that
+create atmosphere, and hydrosphere that make up a distributed
 biosphere.
+
+*** Dubai Martian City
+
+I'd like to approach the Dubai project with the proposal so do three
+scenarios for them as well -- one will be our Barsoom Dor scenarios
+but in addition two others that explore what a traditional top down
+design and construction process might look out and how they would
+compare to our generative approach.
+
+This would be done by holding scenario conclaves where we invite
+different traditional architects, engineers and builders and work out
+the long term consequences of top down approaches.
 
 
 ** APPL
