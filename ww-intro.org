@@ -37,11 +37,12 @@ W&W will be to APPL that /A Timeless Way of Building/
 TWB starts with this:
 
 #+begin_quote
-/The Timeless Way of Building/ is the first in a series of books which
-describe an entirely new attitude to architecture and planning.  The
-books are intended to provide a complete working alternative to our
-present ideas about architecture, building, and planning—an
-alternative which will, we hope, gradually replace current ideas and
+/The Timeless Way of Building/ is the first in a series of
+books which describe an entirely new attitude to
+architecture and planning.  The books are intended to
+provide a complete working alternative to our present ideas
+about architecture, building, and planning—an alternative
+which will, we hope, gradually replace current ideas and
 practices.
 
 — A Timeless Way of Building
@@ -203,6 +204,33 @@ order to adapt how will it impact their original designs?
 
 structures used by the primer
 
+It took me a long time to really grok patterns.  The first
+time I saw the book I was hooked instantly.  But how you got
+from patterns to actual buildings wasn't so clear.  Even
+today, after reading /The Nature of Order/
+cite:alexander:2004phenomenon it still wasn't clear.  I
+understood what he was proposing, but implementation is
+still too fuzzy -- it's almost as if the gulf is too great
+between the past and present -- we are so estranged and
+broken that building things from a deep sense of
+connectedness to the world is an alien concept.  I don't
+agree that people still have an innate ability to do this.
+This faculty has been so degraded that we don't even know
+what we've lost any longer.
+
+Alexander has come up with a methodology that provides a
+crude method that's sort of like teaching tone deaf people
+to create beautiful music that they can not experience.
+
+We need to teach people how to be connected to the world and
+give them the cognitive tools to see and appreciate beauty,
+then Alexander's approach will follow naturally.
+
+
+
+
+
+
 ** Primer
 
 The origin story is the first part of the primer,[fn:1]
@@ -295,9 +323,9 @@ forms that are little different from slavery as well.
 
 ** Hoard
 
-After the primer is the Hoard -- the library of descriptive and
-prescriptive knowledge.  This will be a map but a very detailed map
-whose territory is the archive.
+After the primer is the Hoard -- the library of descriptive
+and prescriptive knowledge.  This will be a map but a very
+detailed map whose territory is the archive.
 
 This will be the knowledge that is assembled to build a
 civilization from first principles -- this will include
