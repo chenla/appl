@@ -287,6 +287,78 @@ do this and we will never see it, nor out children.  But
 perhaps our grandchildren and great grandchilren, if we work
 hard enough at it and make it a priority.
 
+But this still doesn't answer my original question of how to
+use patterns -- I don't see them as a crutch, as see them as
+an important means of embodying an aspect of knowledge that
+until now hasn't been recorded in any meaningful way.
+
+Patterns record fuzzy things that we use terms like
+traditional, or custom or vernacular that boils down to
+being collective, often informal knowledge -- it works
+because it has evolved over many generations and tempered
+over time through constant tweaking and experimentation.
+It's often difficult, and even impossible to boil such
+knowledge down into exact specifications or designs.
+Patterns are able to capture that and as such are very
+powerful, though more than a little nebulous.  Patterns are
+not machine understandable because they are all within a
+continuum of possible manifestations.  This is why it's so
+difficult to use traditional building and financing methods
+to do such construction because it is a process that doesn't
+lead to a specific pre-defined conclusion.  The process
+determines the finished product, not the desgin.  This is
+what happened to the Web -- the original Web wasn't supposed
+to look the same everywhere -- web pages were supposed to be
+rendered differently according to the different types of
+software and hardware that was being used.  Today's web
+which is designed to work on multiple display sizes is not
+what I'm talking about.  Web pages were not meant to be
+'designed' they were meant to be interpreted.  Modern man
+can't handle that kind of plasticity and uncertainty -- we
+are too indoctrinated with the industrial concept that
+everything has to be exactly the same to be of high
+quality.  There can be no ambiguity, no influence from
+outside -- everything must be static cookie cutter identical
+copies where the designer has the power of controlling
+everything for good or bad.
+
+This also means that we've lost the ability to adapt the
+world around us to the specific circumstances and needs that
+they are put to use.  Emacs is completely the opposite from
+this -- no two .emacs are the same, and after a while, the
+customizations that go into your config may well make it
+unusable for other people to be able to understand or use.
+To someone like Steve Jobs this is nothing short of
+horrifying.  He wants to cramp /his/ vision and /his/ design
+down your throat and he doesn't give a shit if this works or
+not.  Apple products require you to conform in ways that
+Microsoft was never clever enough to pull off.  But
+microsoft achieved the same thing from a completely
+different direction.  Microsoft products are designed for
+large corporate environments that require general purpose
+tools that are identical.  Microsoft is the electronic
+embodiment of industrial information processing.  The tools
+don't need to be great, they only need to be good enough,
+because the workers and the work done doesn't need to be
+great it only needs to be good enough.  Excellence,
+ingenuity and imagination doesn't scale and must be
+eradicated where ever it is encountered.  That is why
+Microsoft was so successful, Gates understood that in his
+bones.  Apple then became a sort of fake alternative to
+Microsoft.  Apple was supposed to be about individuality and
+unconformity and thinking outside of the box, but that was
+all window dressing.  It had the effect of catching all of
+the people who did have a spark of imagination and crushed
+it by reducing it to a lifestyle choice.  So you had the
+choice of Microsoft, or Apple's way or the highway.  In the
+end both Microsoft and Apple were doing the same thing.
+
+Emacs out-of-the-box isn't emacs.  Emacs only become emacs
+after it has rewired your brain and you have rewired emacs.
+
+That is the potential that the web originally had and was
+lost in the browser wars.
+
 
 ** Primer
 
