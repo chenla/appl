@@ -465,16 +465,43 @@ great -- but that is not what Man is doing now.
   - 
   - bioregions/ecosystems
   - production & surpluses
+
     - slavery/mass labour -> machinery -> cognitive machines
 
 *** Slavery and Civilization
 
-Two sides to slavery; surplus mind and muscle, you need both to create
-a surplus that leads to surpluses that free a proportion of the
-population to pursue intellectual pursuits that result in advancements
-in technology, sciences and the arts.
+All employment at scale has at its roots, human slavery. I
+realize that at first this sounds like an inflammatory
+statement, but it's not.  Once you grow a group beyond the
+scale of a band or small tribe, you slavery begins to
+emerge.  This is universal, it cuts across all human
+societies and religions and ideologies (tho religion is a
+subset of ideology).
 
-This follows toffler -- force -> wealth -> knowledge
+---
+
+Two sides to slavery; surplus mind and muscle, you need both
+to create a surplus that leads to surpluses that free a
+proportion of the population to pursue intellectual pursuits
+that result in advancements in technology, sciences and the
+arts.
+
+This follows toffler: 
+
+    force -> wealth -> knowledge
+
+Human labour at scale mirrors this perfectly: 
+
+    slave/convict -> indenture/conscript -> employee
+
+At each level labour becomes more abstract, flexible and
+more powerful, but at base it's jelly beans, they might all
+have different pretty colors but inside it's all made up of
+the same sugary crap.
+
+My argument here is that labour does not and can not scale
+without it becoming a manifestation of slavery.
+
 
   - domesticated animals had the muscle but not the mind so you still
     needed slaves who were compelled through physical force to direct
@@ -565,6 +592,7 @@ slow as -5G.
 After a massive loss of recorded knowledge after a disaster,
 war or other temporary sanity, dark arcs will determine when
 people are ready to have that lost knowledge restored.
+
 
 * Footnotes
 
