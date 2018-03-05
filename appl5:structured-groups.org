@@ -1,0 +1,111 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Structured Groups
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:../hoard/bib.bib
+
+* Structured Groups
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/appl/appl5:structured-groups.org
+:Created:  2018-03-05T08:30@Prek Leap (11.642600N-104.919210W)
+:ID:       71e0aa34-0d95-4095-9723-785574176bbc
+:VER:      573485515.683773821
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:YMN8-8557
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Introduction
+
+We are pack animals -- and packs have leaders, alpha male/females, and
+social pecking orders, as opposed to herds and mobs which are
+directionless.  Packs have specializations, and without strucuture
+there is no way for a group to be able to work together as a single
+functioning organism.  Herds and mobs react, packs coordinate and
+attack.
+
+The drawback is that if these structures are too ridged, and if
+leaders are tyrannical, then the group in unable to leverage all of
+the collective processing power, observation, POV and problem solving
+of all members of the group.
+
+From comment on HN: "The military has the tradition that, when
+officers discuss a plan of action, the most junior officers speak
+first. This is to avoid everybody agreeing with the boss."
+
+This is wise in a number of different ways.  It saves face for the
+senior officer because they always have the last word, and ensures
+that junior officers don't suppress information.
+
+---
+
+#+begin_quote
+However, the freedom from these revolutions lasted for only a short
+time. Curtis compares them with the hippie communes, all of which had
+been broken up within a few years by, "the very thing that was
+supposed to have been banished: power." Aggressive members of the
+group began to bully the weaker ones, who were unable to band together
+in their own defence because formal power structures were prohibited
+by the commune's rules, and even intervention against bullying by
+benevolent individuals was discouraged.
+
+— [[However, the freedom from these revolutions lasted for only a short time. Curtis compares them with the hippie communes, all of which had been broken up within a few years by, "the very thing that was supposed to have been banished: power." Aggressive members of the group began to bully the weaker ones, who were unable to band together in their own defence because formal power structures were prohibited by the commune's rules, and even intervention against bullying by benevolent individuals was discouraged.][All Watched Over by Machines of Loving Grace]] (TV series) | Wikipedia
+#+end_quote
+
+This happened in the [[However, the freedom from these revolutions lasted for only a short time. Curtis compares them with the hippie communes, all of which had been broken up within a few years by, "the very thing that was supposed to have been banished: power." Aggressive members of the group began to bully the weaker ones, who were unable to band together in their own defence because formal power structures were prohibited by the commune's rules, and even intervention against bullying by benevolent individuals was discouraged.][Brook Farm]] (SEE [[However, the freedom from these revolutions lasted for only a short time. Curtis compares them with the hippie communes, all of which had been broken up within a few years by, "the very thing that was supposed to have been banished: power." Aggressive members of the group began to bully the weaker ones, who were unable to band together in their own defence because formal power structures were prohibited by the commune's rules, and even intervention against bullying by benevolent individuals was discouraged.][The Blithedale
+Romance]], and to some extent at [[However, the freedom from these revolutions lasted for only a short time. Curtis compares them with the hippie communes, all of which had been broken up within a few years by, "the very thing that was supposed to have been banished: power." Aggressive members of the group began to bully the weaker ones, who were unable to band together in their own defence because formal power structures were prohibited by the commune's rules, and even intervention against bullying by benevolent individuals was discouraged.][Black Mountain College]] as well which
+were founded by intellectuals who prefered to do intellectual work
+rather than mowing hay.  So structure in the group must reflect the
+talents, needs and ambitions of all members of the group.  New members
+and those at the bottom of the hierarchy may be okay doing menial work
+as part of the process of learning, or apprenticeship but they still
+must be able to spend a large part of their time learning and
+practicing what they are trying to master.  This is where SLAVE
+SURPLUS pattern kicks in yet again -- if you don't have slaves to do
+the menial work and thus create surpluses for others to be able to
+work on creative, intellectual or even management work then members of
+the group will not be able to accomplish much.
+
+The [[Wall Street ][Occupy Wall Street]] protest movement in 2011 took unstructured
+groups to absurd extremes -- "What is our one demand?" no one knew,
+especially the protesters.  The occupy movement broke many of Saul
+Alinsky's [[-%20Wikipedia%5D%5D][Rules for Radicals]] -- never camp out and demand change or
+you won't leave because they can just wait you out and people will
+loose interest and resources and it will fall apart on its own.
+
+---
+
+Structure must balance with egalitarian patterns that ensure all
+members of a group can contribute to the best of the abilities.
+
+
+
+
+** References
+
+Freeman, J., The tyranny of structurelessness, Berkeley Journal of
+Sociology, (), 151–164 (1972).
+cite:freeman:1972tyranny
+
+contributors, W., /The tyranny of structurelessness --- wikipedia, the
+free encyclopedia/ (2018).
+cite:wiki:2018tyranny-of-structurelessness 
+
+Mintzberg, H., Raisinghani, D., & Theoret, A., The structure of 
+"unstructured" decision processes, Administrative science quarterly,
+(), 246–275 (1976).
+cite:mintzberg:1976structure 
+

@@ -113,6 +113,8 @@ bibliography:../hoard/bib.bib
    - Apprentices
 ** 5. Culture
  - [[./appl5:culture-layer.org][Culture Layer]]
+
+ - [[./appl5:structured-groups.org][Structured Groups]]
  - Shared Stories
    - everything has a story
    - Art
