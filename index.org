@@ -198,12 +198,16 @@ bibliography:../hoard/bib.bib
  - [[./appl4:anthros-layer.org][Anthros Layer]]
  - Biology
    - Diurnal Cycles
-   - Bands, Tribes
+   - Group Size (Bands, Tribes)
+   - Fovea centralis
  - Transactive species
  - Cognitive Limits
    - magic number 7
    - 150
-   - small world problem
+   - Small World Problem
+   - Forgetting curve
+   - Intertemporal choice
+
 
 ** 3. Bios
  - [[./appl3:bios-layer.org][Bios Layer]]
