@@ -116,153 +116,218 @@ path, and how we have no choice but to start from first
 principles.
 
 ** Warp & Woof
+#+begin_quote
+1. warp and woof(Noun)
 
-The primer for the primer -- a kind of process philosophy
-where past is part of the present -- and the future does no
-exist you can't go into the future or back to the past
-because time is not linear -- we are living in the Big Bang,
-we are part of the Big Bang, it didn't create the universe,
-it's still going on, it IS the universe.
+   The threads in a woven fabric, comprised of the warp
+   (threads running lengthwise) and woof (threads running
+   crosswise) to create the texture of the fabric.
 
-*** Part One -- name ?????
+2. warp and woof(Noun)
 
-  - information
-  - process
-  - part-whole
-  - pace-layers
-  - systems & distributed systems
-  - models & graphs
-  - map-territory
-  - quality
-  - craftsmanship
+   The fundamental structure of any process or system.
 
-*** The Plan of Arc Indradevi
+— [[http://www.definitions.net/definition/warp%20and%20woof][warp and woof]] | definitions.net
+— [[https://en.wiktionary.org/wiki/warp_and_woof][warp and woof]] | Wiktionary
+#+end_quote
 
-A bioregion in n.e. cambodia.  Rather than my original
-concept of doing the plan for the Arc itself like PSG, we do
-a plan for an entire bioregion and ecosystem for of 2
-million people all living and working as part of a global
-distributed micro-value-chain.
+This is not an origin story -- that's moved to the primer.
 
-The Arc will be just one part of the larger plan -- that
-will include infrastructure, agriculture, production,
-economic, education, governance and culture.
+*** Part 1: Three Point of Views
 
-I suppose the plan would be a master plan, and we would
-create three different 100 year scenarios of how that plan
-might be realized depending on different climate change,
-political, and economic scenarios globally and regionally.
+The premise is that it is helpful to always understand the Point
+of View (POV) -- or perspective that you are looking at
+something because when you change your POV you change the
+context of what you are seeing and will often see things you
+didn't see before, or even see things in a completely
+different way than you saw before.
 
-My original idea was to do three scenario histories over a
-100 year period.  The scenarios would show how generative
-designs would create very different things given different
-circumstances.
+We define three different perspectives:
 
-Without this it would be easy to think that this was a
-traditional top-down static plan.  We need to show that
-generative designs are natural -- for some reason they scare
-people, but most of that is because generative plans are
-things that happen in the moment, they are processes rather
-than plans.  Plans are linear, with a beginning middle and
-end -- processes can be linear -- but they can also be
-open-ended and they certainly are not deterministic it's not
-always clear where a process will lead.  In reality we don't
-know where plans lead either -- but in the case of building
-physical infrastructure the goal is usually to know what you
-are building and ensure it get's built according to plan.
-In the case of something like a suspension bridge this is a
-good thing.  But not the vast majority of constructions.
-The great european cathedrals were not built in the same way
-as modern buildings they were generative processes that
-took, in some cases, centuries to complete.  There's no
-little irony that ESR's famous essay used the catherdral as
-the symbol of top down planning, design and construction.
+  - LOD : Level of Detail
+  - ROC : Rate of Change
+  - POC : Process of Change
 
-Adaptive processes are better in the long term, but static
-processes are percieved to be better in the short term (even
-though this is not true) and the modern system from the
-ground up is designed to work that way.
+These three POVs form the foundation for how everything else
+*everything* in APPL, Primer & Hoard are understood.
 
-This is not to say that generative is all chips and gravy.
-Generative is as hard as distributed -- biological evolution
-is a blind generative process and is mind blowingly
-inefficient.  But when generative works, the payoff is all
-of Life in all of its diversity, complexity and beauty.  We
-are coded to work this way, even if that coding is working
-very deep in the bios pace-layer.  And the thing is,
-deterministic processes are almost always bad and if they
-aren't, it's little more than chance.  Okay, I take that
-back, deterministic processes work at individual human
-timescales.  We can get up in the morning, eat breakfast and
-go to work.  That's a deterministic process.  We make a plan
-and follow it for day to day life.  We can do that and often
-do it very well.  But we then try to apply the same approach
-to processes in pace-layers that are beyond individuals, and
-even beyond collective human pace-layers.  That's where is
-all falls apart.
+Each POV becomes increasingly more complex and abstract, but
+each builds on the one before and let's you see the same
+thing from a different perspective.  It does not negate the
+other POVs so much as enriches them and provides a more
+powerful toolbox for modeling and understanding.
 
-Business plans are a good example.  Business plans are
-complete bullshit if they are for longer than a few months.
-Five or ten year business plans are meaningless fantasy in
-world whose ROC in fashion and commerce pace-layers is as
-fast as it is today.  But we persist in thinking that they
-are useful and waste enormous amounts of time writing them
-and as soon as something changes, they are forgotten in a
-drawer.
+For example, let's look at the Origin Story that will start
+the Primer.
+
+The Origin LOD is basically Big History -- a linear timeline
+with a beginning (big bang) middle (from BB to now) and the
+end (projected heat death of the universe).  The narrative
+is organized around tipping points where complexity reaches
+a critical mass that changes the nature of the universe, and
+then later life on earth and eventually us.  This is a
+fantastic narrative and is a perfect way of easing people
+into the origin story which can be understood like any other
+origin story.
+
+The Origin ROC is basically a finer grained version of Big
+History that uses the concept of causal propagation (think
+Light Cones) to understand that different things change at
+different speeds and that all of these things are mixed
+together.  It's the embodiment of Gibson's the future is
+already here isn't just not evenly distributed.  Brand's
+Pace-Layers is a good way of understanding this, as well as
+Light Cones and causal propagation of change happening at
+the speed of light but making the point that the speed of
+light is the maximum speed that things can propagate, most
+things are propagating far slower.
 
 
+#+begin_quote
+The distinction between past, present and future is only a
+stubbornly persistent illusion.
 
-*** The Plan of Barsoom Dor
+— Albert Einstein
+#+end_quote
 
-Basically the same thing as Indradevi, but how the same
-thing might be achieved on Mars.
+The Origin POC is still a little unclear -- but I think that
+it will basically boil down to how when we talk about LOD
+and ROC we are talking about substance (as the term is used
+in philosophy) that from the time of Aristotle has claimed
+as the only way to understand and argue about the world.
+Sustance changes over time, but that change is accidental
+and does not change form so that it still remains
+essentially the same thing.  But things can also be thought
+of as processes that are in a constant state of changing and
+becoming something else.  The NYC as substance assumes that
+it may change over time but it is still the same NYC from
+when it was a small settlement called New Amsterdam till
+today.  Process philosophy argues that it is not the same
+city even from one moment to the next -- ala you can never
+step in the same river twice.  So when you compare POC with
+ROC you are considering not only how fast things change, but
+the substance of how substances transform over time.
+Understanding things as process and that things change over
+time to become completely different things is important --
+we tend to use words, events and historical figures as if
+they were contemporaries from our own present understanding
+of the world -- they were not what we think of them today --
+we have reinvented them and are continually reinventing
+everything around us -- history is what is written -- what
+was said -- which is a moving target as we write new things.
+The past is not a static fixed thing because out
+understanding is not a static fixed thing.  This is
+important in so many different areas.  For example, in USA,
+when people argue that interpretation of the constitution
+must be in done as it was intended when it was written in
+the 18th century.  Is this even possible?  We can not know
+what their original intend was because our understanding of
+what we think their original intent was is constantly
+changing.  The past is always an invention of the present.
+This does not mean that it's not important to strive to
+understand what that original intent is, it's just that our
+understanding is changing and will never stop changing,
+which in some respects negates the original intention of
+what we set out to do in the first place.  POC has enormous
+implications for everything from contracts to education to
+agriculture to business.
 
-A man-made underground river (not a tunnel, but a river with
-banks and air above) that runs from south towards the
-equator that is fed by ice from antarctic to domes in warmer
-climes.  The river feed domes that create atmosphere, and
-hydrosphere that make up a distributed biosphere.
+Taken together these three models will give us a set of
+powerful tools for understanding, planning, building, and
+maintaining civilizations.
 
-*** Dubai Martian City
+*** Part 2: Dualities
+ - part     <>  whole (holon)
+ - map      <>  territory
+ - metadata <>  data
 
-I'd like to approach the Dubai Mars City project with the
-proposal to do three scenarios for them as well -- one will
-be our Barsoom Dor scenarios but in addition two others that
-explore what a traditional top down design and construction
-process might look like and how they would compare to our
-generative approach.
+*** Part 3. Structures
+ - graphs
+ - lists
+ - trees
 
-This would be done by holding scenario conclaves where we
-invite different traditional architects, engineers and
-builders and work out the long term consequences of top down
-approaches.
+*** Part 4. Boundries
 
-To keep participants honest, all scenarios will follow
-examples from history of what has happened to planned urban
-areas in the past.  We ask them first to come up with a
-design and 20 year master plan in brief and then we see how
-the plan will adapt over time to things that they didn't
-plan for.
+ - physical and cognitive limits
 
-But how to do that?  I suppose we have two teams the design
-teams, the governance teams and then the historical teams
-who would through events at them which came from historical
-examples.
+   sensual limits
+     - light & color
+     - sound
+     - smell
+     - touch
+   cogntive limits
+   memory limits
+   social limits
+     - number of friends
+     - group size
+     - generational
+     - change thresholds
+   temporal limits
+   biological
+     - atmosphere
+     - temperature
+     - food
+     - sleep -- diurnal cycles 
+     - size
+     - age  
 
-One of the scenarios is that after 50 years, Mars is cut off
-from Earth for the next 50 years.  This might mean being
-physically cut from all contact, or or economically cut off
-when funding dries up for support.
+*** Part 5. Estrangement
 
-We will also throw at them things that will basically force
-them to abandon a lot of their initial assumptions after the
-settlement is essentially built.  Can they adapt, and in
-order to adapt how will it impact their original designs?
+ - quality -- beauty    -- connectedness
+ - caring  -- integrity -- control
+
+
+*** Part 6. Pattern Languages
+
+What are pattern languages -- how they work, how to make
+them, how to use them.
+
+Need a chapter on what patterns are NOT.  Many of the
+pattern languages and there are a lot of them, do not seem
+to understand that patterns are not simply another
+methodology you use in software or construction projects,
+they are meant to reveal sets of complex relationships which
+defy description.  They work on a nonverbal level as much as
+the verbal, they are not classification systems.  Patterns
+are only useful if those patterns have been woven into your
+brain, you have to master them through conscious practice,
+experiment and contemplation.  If you don't they are just
+another checklist of attributes or features to add to a
+design or project.  Patterns are not snap together modular
+Lego Bricks.  When they have been used that way people
+wonder why they don't work.
+
+
+
+*** Part 7. The Way (placeholder)
+
+Like in TWB's part of the same name, The Way describes how
+to put everything together from the first six Parts as a way
+of parsing the world, and putting what you have learned
+together to understand things, to build and maintain complex
+societies, build structures and settlements, protect and
+shepard ecosystems, industrial production, build software
+and networks and not least, live a Good Life.
+
+The thing is, that there is no one methodology to
+this. That's hard, but W&W is a generative grammer and
+toolkit for creating methodologies for building and using
+pattern languages to build and use Primers.
+
+you can use w&w to build any number of methodologies -- so
+long as you are aware that they are living processes that
+are not set in stone -- they must designed to adapt to
+changes, to encourage experimentation and careful adoption
+of what is found to work.  They are not to be chiseled in
+stone or codified or turned into dogma -- like Pirate Law,
+in /Pirates of the Caribbean/, they are more guidelines than
+laws.
+
+
 
 ** APPL
 
-structures used by the primer
-
+#+begin_comment
 It took me a long time to really grok patterns.  The first
 time I saw the book I was hooked instantly.  But how you got
 from patterns to actual buildings wasn't so clear.  Even
@@ -417,9 +482,381 @@ after it has rewired your brain and you have rewired emacs.
 
 That is the potential that the web originally had and was
 lost in the browser wars.
+#+end_comment
 
+Patterns are repeating themes in nature, design and human
+behavior that when combined with other patterns strengthen
+each other and create things that are larger than the sum of
+their parts.
+
+APL was divided into three parts, Towns, Buildings and
+Construction.  But APL is a pattern language for
+architecture and buildings.  For this to work it had to
+define many patterns that more properly belonged to urban
+planning, culture and governance though these were patterns
+that supported the construction of beautiful buildings.
+
+Our pattern language has a far broader scope; building an
+antifragile civilization for mankind.  It is such a broad,
+and ambitious scope that it borders on hubris.  After all we
+barely agree on what civilization is, let alone how to build
+one from first principles.  Though the undertaking is
+assuredly fated to fall far short of it's goals, it is
+important to instigate a tradition of people and
+institutions to try.  Over many generations such
+investigations could well become the foundation for and
+roadmap for our survival and hopefully, prosperity.
+
+But if Mankind is to become antifragile, we must become as
+distributed as possible.  That means, among other things we
+need to be thinking beyond our own planet and how we can
+leverage the mind boggling wealth that we have in our solar
+system.  We have outgrown the carrying capacity of our
+fragile pale blue dot and we need to start tapping
+extraterrestrial resources or perish, certainly as a
+civilization and eventually as a species.
+
+The pattern language is organized around Steward Brand's
+six-layer /Pace Layer/ model which is based on the
+observation that different things change at different
+speeds.  The model began as an observation that buildings
+can be thought of as being made of multiple layers with each
+changing over time at different speeds.
+
+Brand's model was made up of six parts:
+
+  - 6 Fashion
+  - 5 Commerce
+  - 4 Infrastructure
+  - 3 Governance
+  - 2 Culture
+  - 1 Nature 
+
+
+Our language will be called /A Pace-Layer Pattern Language/
+(APPL), which will be made up of 9 parts that combine
+Brand's and Saffo's Pace Layer models into one.
+
+This table shows slow to fast as pace layers, but it should
+be remembered that layers 1-4 are nested within each other
+and the Anthros layers are a subgroup of bios.
+
+  |----------+------------------+-------------|
+  |          | 9 Fashion        | agora       |
+  |          | 8 Commerce       | stoa        |
+  | Anthros* | 7 Infrastructure | polis       |
+  |          | 6 Governance     | pynx & bema |
+  |          | 5 Culture        | muthos      |
+  |----------+------------------+-------------|
+  |          | 4 Anthros*       |             |
+  |          | 3 Bios           |             |
+  | Natura   | 2 Lithos         |             |
+  |          | 1 Helios         |             |
+  |          | 0 Cosmos         |             |
+  |----------+------------------+-------------|
+
+
+This is only one POV, we need to present this as how these
+different things form a hierarchy so that it's understood
+that anthros is a subset of bios and not seperate.
+
+The 9th group called /0 Meta/ contains patterns that apply to
+all layers which will be given the number 0 below /1 cosmos/
+which is number 1.
+
+Each layer has a different =Rate of Change= (ROC) with
+/Cosmos/ at the bottom being the slowest and /Fashion/ at
+the top in a constant state of churn, changing at a staccato
+rapid-fire beat.
+
+
+*** Pattern Keys
+
+Patterns will have keys (unique ids) in the form of:
+
+   APPL[layer#]:[Pattern#]
+
+So the first pattern in the Meta group would have the key
+APPL0:0001.
+
+*** Steward Brand and Paul Saffo: Pace Layers Thinking -- notes
+
+ - [[http://longnow.org/seminars/02015/jan/27/pace-layers-thinking/][Pace Layers Thinking]] | Stewart Brand & Paul Saffo | SALT
+ - [[Painted.Woman.2017][Pace Layering: How Complex Systems Learn and Keep Learning]]
+
+  slippage between layers, negative feedback looks
+
+    - turbulence
+    - viscosity
+
+  young are concerned with fast layers -- especially fashion
+
+
+  | Fast layers              | Slow layers          |
+  |--------------------------+----------------------|
+  | learns                   | remembers            |
+  | proposes                 | disposes             |
+  | absorbs shocks           | integrates shocks    |
+  | discontinious            | continious           |
+  | innovation/revolution    | constrainy/constancy |
+  | *gets all the attention* | *has all the power*  |
+ 
+I find it interesting that Alexander seems to be aware of
+all of this, but never takes it on directly.  He has always
+been focused on creating new buildings where you can start
+with a clean slate and do things the right way.  But most of
+the time that's not what you can do.  He always talks of
+gradually moving from what is existing to how you want
+things to be but doesn't address any of that in APL as much
+as he could have.  We build on top of what came before.
+There is no clean slate -- thinking that you can is the
+architect's hubris.
+
+The moments when you can do tabla rosa are few and far
+between.  The great fire of london, a tsunami in Japan or SE
+Asia wipe everything out, even cadastral maps (because the
+property holders are gone as well as the buildings).  We
+should fear such opportunities more than wish for them,
+because unless you start small and grow bottom up in an
+organic manner we will /always/ fuck it up.
+
+But it's even worse than that because when say Myanmar or
+Dubai backed by a mountain of cash have tried to clean slate
+things they try to jump over all of the intermediate steps
+that leads to functional, beautiful human settlements.
+
+Alexander has essentially made the case to abolish the whole
+class of architects and architecture as we know it today and
+go back to the older concept of the master builder.
+
+The big name architects are too focused on originality and
+have largely forgotten craft and that structures are a part
+of the environment (context) that they are built in and are
+built for mostly pedestrian functions.  They put the focus
+of vision on originality rather than achieving the purpose
+the building is meant to fill.  The small name architects
+are often just as bad or worse because they are just
+knocking out structures at a distence according to
+specifications provided by a customer that are based on
+lowest common demoninator metrics and contruction financing
+and practices that are estranged from the purpose that the
+building is meant to fulfill.
+
+
+**** Paul Saffo's Pace Layers
+
+ - Anthros
+ - Bios
+ - Lithos
+ - Cosmos
+
+So if we combine this with Brand's model we get:
+
+A General Theory Of Bureaucracy (1961)
+Elliott Jaques
+
+https://en.wikipedia.org/wiki/Elliott_Jaques
+
+/Time span of discretion/ that a manager can be ranked 
+
+seven layers on timespan of 
+
+time from formulate a plan to it's execute
+
+the lower the number the shorter the timespan
+
+
+
+**** Japanese mayor (story from audience member)
+
+An classic example of long term application of /timespan of
+discretion/.
+
+http://www.dailymail.co.uk/news/article-1386978/The-Japanese-mayor-laughed-building-huge-sea-wall--village-left-untouched-tsunami.html
+http://blog.nihongo-pro.com/2011/04/mayors-vision-saves-japanese-village.html
+
+Was mayor for over 40 years and in that time went against and fought
+to build a tsunami barrier for this town.  He died before it was ever
+used but the barrier saved the town.
+
+**** Rice on Chessboard
+
+People don't grok exponential growth
+
+pace layers turn Hockey Sticks into S-Curves
+
+**** The Apsara of Context, Scale, Time and Change
+
+Though not discussed in the talk, the other two things that
+we can't grok are /size/ and /time/ at scales that are
+outside of human empirical limits.
+
+Taken together /rate-of-change/ (ROC), /level-detail/ (LOC)
+and /point-of-view/ (POV) are the three things that define
+the context of almost anything.  They are also are our
+biggest blindspots when any of the three fall outside of
+human scales and comprehension.
+
+Is blindspot the right term?  Failure of imagination?
+Cognitive limitation?  hmmm.
+
+Relativity is based on the concept that what is real is
+dependent on the context of the observer -- this is just
+another formulation of that concept from a different POV.
+
+One of the Meta goals of our project is to find ways to help
+us as individuals and collectively to make these things
+comprehensible so that we act on them when it is necessary.
+
+Climate Change is a problem because we can not comprehend
+the problem that we have created for ourselves.  The Long
+Now Foundation focuses on long term thinking and
+perspectives but scale and change are equally important.  I
+know that they think that's baked into their mission but its
+worth spelling out.
+
+*** Nature
+
+We divide nature into the /1 cosmos/, /2 lithos/ (as in the
+lithosphere) and /3 bios/ as in the biosphere.
+
+Cosmos includes everything in the universe down to planetary
+or planetoid scales.
+
+Lithos (meaning rock) is any planet or planetoid where
+mankind might end up hanging his hat or exploiting in some
+manner.  Lithos includes artificial planetoids that are
+meant to be habitats including everything from the ISS to
+large scale habitats housing thousands or even millions of
+people.
+
+Bios is any biosphere that supports life that is contained
+in a /lithos/.
+
+Putting it all together:
+
+The Universe is the Cosmos.  But more practically, the
+pattern language will be concerned with our Solar System as
+a /system/ which includes the Sun, planets, planetoids
+orbiting it and the mechanics of moving around in it and
+dealing with things like solar and cosmic radiation, light,
+heat and electromagnetism and how all of this pertains to
+building and maintaining an life and specifically an
+antifragile distributed civilization.
+
+The lithos is any physical inanimate natural or manmade body
+that is exploited or used to create a habitat irrespective
+of whether the body is habitable.
+
+On earth the core, mantel and crust would be the lithosphere
+and the biosphere is the thin envelop made up of an
+atmosphere and a hydrosphere where life can exist.
+
+The structure and shell of the ISS would be the lithos and
+the atmosphere within and the machinery for maintaining
+pressure, temperature and scrubbing C0^2 would be its
+biosphere.
+
+/Anthros/ layers are anything within a biosphere and follows
+Steward Brand's five layers, culture, governance,
+infrastructure, commerce and fashion.  There is always a
+tradeoff when you define models like this because you are
+indicating organization for the purpose of understanding
+something that doesn't exist.  The layers are a useful way
+of understanding how different aspects of civilization that
+change at different speeds interact with each other.
+
+
+
+----
+
+We are a part of both realms and we impact and are impacted
+by both realms.  We are part of nature, there is no them and
+us.  This is very difficult concept for modern man to
+comprehend because we have convinced ourselves that we are
+exceptional and outside of nature.  Gravity applies to us
+the same way as every other thing in the universe.  Jump out
+of a airplane without something to slow us down like a
+parachute and we will splat just like a watermelon.
+
+A city is part of nature as much as the most isolated meadow
+in on the Tibetan Plateau.  Both belong to and depend on the
+same pressurized atmosphere, and protection from solar and
+cosmic radiation to support life.  You can say that the
+meadow is nature uneffected by man, but that isn't exactly
+true either.  Mankind has been shaping the world for tens of
+thousands of years using fire, long before the first
+civlizations emerged in the alluvial wetlands of Mesopotamia
+that fundementally changed the biodiversity of broad swaths
+of the planet, especially megafuana.  Cliff paintings
+overlooking the Mekong River portray a number of different
+types of megafauna that are now long extinct.  The most
+likely explanation for the extinction of species like pygmy
+rhinos and the giant sloth is man.  Other megafauna, which
+could reproduce quickly and were more fleet of foot than the
+sloth such as antelope, deer, caribou and elk flourished as
+a reliable food source managed by using fire to shape
+habitats which encouraged those species.  It can be argued
+that mankind terraformed the planet with fire.
+
+/Nature/ patterns are concerned with Mankind's interaction
+with nature, both physical and living.
+
+The degree of that interaction can be divided into wild and
+cultivated.  We used to be quite good at managing the wild,
+but got lost when we turned to pure cultivation and
+eventually began to see the wild as something in opposition
+to and an enemy of the cultivated.  In modern times, those
+who call themselves environmentalists and conservationists
+are no less guilty of this false dichotomy.  We need to stop
+thinking in terms of us vs them, nature knows no such
+divisions.  We can not become one with nature, because we
+were never apart from nature in the first place.
+
+When talking about the realm of life we will use the concept
+of /habitats/ that contain /biospheres/ that are sometimes
+divided into /biomes/ that contain life.  At the time that
+this is being written there are only two biospheres that we
+are aware of, the planetary biosphere that envelops Earth
+and a tiny biosphere in low earth orbit called the ISS
+(International Space Station).  Eventually there will be
+more biospheres, a handful at planetary scales and many
+smaller artificial ones.  The nature of how mankind shapes
+and manages those biospheres is the subject of this pattern
+pace-layer.
+
+Change at planetary scales both physical and biological take
+place in geological time scales.  The tectonic plates of the
+Earth inch together and apart so slowly even the Ents would
+consider them to be slow.  The evolution of life largely
+takes place in time scales that dwarf any one species.
+Occasionally something like an asteroid impact, the eruption
+of a supervolcano or other event triggers massive change,
+but the impact of that event often takes far longer than we
+might think.  The dinosaurs didn't all die off within days
+or months or even centuries after the asteroid hit the
+Yuccatan.  A true planet killing event has yet to happen to
+Earth.  We know this because we are here to talk about it.
+But there were a couple of times that things were close.
 
 ** Primer
+
+*** Origin Story
+  - Filters
+
+  - 1. The Big Bang
+  - 2. Stars Light Up
+  - 3. New Chemical Elements
+  - 4. Earth and the Solar System
+
+  - Life
+  - 5. Life on Earth
+  - 6. Collective Learning
+  - 7. Agricuture
+  - 8. The Modern Revolution
+
+
+
 
 The origin story is the first part of the primer,[fn:1]
 followed by the theses (declarations), then education (triv,
@@ -456,7 +893,7 @@ abusing resources faster than they can be replaced.  If you
 can hack nature to increase sustainible carrying capacity
 great -- but that is not what Man is doing now.
 
-
+  - social contract   
   - origin
   - theses
   - education
@@ -543,6 +980,33 @@ labor etc. are all forms of the same shade.  This is also true in the
 modern industrial era where incarceration in many places is little
 more than another form of legal slavery.  Conscription has also taken
 forms that are little different from slavery as well.
+*** Constants
+
+Constants are bedrock variables that define things that can
+not be changed like the speed of light or dunbar's number.
+They supercede what we want or what we would like and
+provide empirical design limits.  No theses can =violate= or
+contradict a =constant=.
+
+ - [[./constant-speed-of-light.org][Speed of Light]]
+ - [[./constant-dunbar.org][Dunbar's Number]]
+ - [[./constant-millers-law.org][Miller's Law]] (7 plus or minus 2)
+ - [[./constant-divided-concurrent-goals.org][Divided Concurrent Goals]]
+ - [[./constant--shared_intentionality.org][Shared Intentionality]]
+
+*** Theses
+
+Scopic Theses are declarations that provide a foundation for
+a =civil ruleset= for people to live and cooperate with each
+other.  Our theses is a social fiction that defines how we
+/want/ to live and behave with each other.
+
+ - [[./theses-preamble.org][Preamble]]
+ - [[./theses-notes.org][Theses Notes]]
+
+
+
+
 
 
 ** Hoard
@@ -578,6 +1042,8 @@ But don't forget that the Hoard has two parts -- map and
 territory, so the graph database that weaves it together is
 just as important as the items in it.
 
+
+
 ** Archive
 
 After that is the Archive of all recorded memory and
@@ -601,6 +1067,144 @@ slow as -5G.
 After a massive loss of recorded knowledge after a disaster,
 war or other temporary sanity, dark arcs will determine when
 people are ready to have that lost knowledge restored.
+
+
+** Window & Roadmap
+
+A Roadmap for Mankind over the next 50 years to move from
+being a centralized global civilization, with crtical
+knowledge, infrastructure and wealth pooled in a handful of
+people, places, and organizations, to a distributed
+multiplanetary civilization reflecting the needs of a
+rapidly shrinking population on earth and an increasingly
+hostile climate.
+
+
+
+
+** Scenarios
+*** The Plan of Arc Indradevi
+
+A bioregion in n.e. cambodia.  Rather than my original
+concept of doing the plan for the Arc itself like PSG, we do
+a plan for an entire bioregion and ecosystem for of 2
+million people all living and working as part of a global
+distributed micro-value-chain.
+
+The Arc will be just one part of the larger plan -- that
+will include infrastructure, agriculture, production,
+economic, education, governance and culture.
+
+I suppose the plan would be a master plan, and we would
+create three different 100 year scenarios of how that plan
+might be realized depending on different climate change,
+political, and economic scenarios globally and regionally.
+
+My original idea was to do three scenario histories over a
+100 year period.  The scenarios would show how generative
+designs would create very different things given different
+circumstances.
+
+Without this it would be easy to think that this was a
+traditional top-down static plan.  We need to show that
+generative designs are natural -- for some reason they scare
+people, but most of that is because generative plans are
+things that happen in the moment, they are processes rather
+than plans.  Plans are linear, with a beginning middle and
+end -- processes can be linear -- but they can also be
+open-ended and they certainly are not deterministic it's not
+always clear where a process will lead.  In reality we don't
+know where plans lead either -- but in the case of building
+physical infrastructure the goal is usually to know what you
+are building and ensure it get's built according to plan.
+In the case of something like a suspension bridge this is a
+good thing.  But not the vast majority of constructions.
+The great european cathedrals were not built in the same way
+as modern buildings they were generative processes that
+took, in some cases, centuries to complete.  There's no
+little irony that ESR's famous essay used the catherdral as
+the symbol of top down planning, design and construction.
+
+Adaptive processes are better in the long term, but static
+processes are percieved to be better in the short term (even
+though this is not true) and the modern system from the
+ground up is designed to work that way.
+
+This is not to say that generative is all chips and gravy.
+Generative is as hard as distributed -- biological evolution
+is a blind generative process and is mind blowingly
+inefficient.  But when generative works, the payoff is all
+of Life in all of its diversity, complexity and beauty.  We
+are coded to work this way, even if that coding is working
+very deep in the bios pace-layer.  And the thing is,
+deterministic processes are almost always bad and if they
+aren't, it's little more than chance.  Okay, I take that
+back, deterministic processes work at individual human
+timescales.  We can get up in the morning, eat breakfast and
+go to work.  That's a deterministic process.  We make a plan
+and follow it for day to day life.  We can do that and often
+do it very well.  But we then try to apply the same approach
+to processes in pace-layers that are beyond individuals, and
+even beyond collective human pace-layers.  That's where is
+all falls apart.
+
+Business plans are a good example.  Business plans are
+complete bullshit if they are for longer than a few months.
+Five or ten year business plans are meaningless fantasy in
+world whose ROC in fashion and commerce pace-layers is as
+fast as it is today.  But we persist in thinking that they
+are useful and waste enormous amounts of time writing them
+and as soon as something changes, they are forgotten in a
+drawer.
+
+
+
+*** The Plan of Barsoom Dor
+
+Basically the same thing as Indradevi, but how the same
+thing might be achieved on Mars.
+
+A man-made underground river (not a tunnel, but a river with
+banks and air above) that runs from south towards the
+equator that is fed by ice from antarctic to domes in warmer
+climes.  The river feed domes that create atmosphere, and
+hydrosphere that make up a distributed biosphere.
+
+*** Dubai Martian City
+
+I'd like to approach the Dubai Mars City project with the
+proposal to do three scenarios for them as well -- one will
+be our Barsoom Dor scenarios but in addition two others that
+explore what a traditional top down design and construction
+process might look like and how they would compare to our
+generative approach.
+
+This would be done by holding scenario conclaves where we
+invite different traditional architects, engineers and
+builders and work out the long term consequences of top down
+approaches.
+
+To keep participants honest, all scenarios will follow
+examples from history of what has happened to planned urban
+areas in the past.  We ask them first to come up with a
+design and 20 year master plan in brief and then we see how
+the plan will adapt over time to things that they didn't
+plan for.
+
+But how to do that?  I suppose we have two teams the design
+teams, the governance teams and then the historical teams
+who would through events at them which came from historical
+examples.
+
+One of the scenarios is that after 50 years, Mars is cut off
+from Earth for the next 50 years.  This might mean being
+physically cut from all contact, or or economically cut off
+when funding dries up for support.
+
+We will also throw at them things that will basically force
+them to abandon a lot of their initial assumptions after the
+settlement is essentially built.  Can they adapt, and in
+order to adapt how will it impact their original designs?
 
 
 * Footnotes
