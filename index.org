@@ -201,12 +201,13 @@ bibliography:../hoard/bib.bib
    - Group Size (Bands, Tribes)
    - Fovea centralis
  - Transactive species
- - Cognitive Limits
-   - magic number 7
-   - 150
+ - Cognitive Limits: concentration, short term memory, long
+   term memory retrieval.
+   - The Magic number 7
+   - Dunbar's Number: 150
    - Small World Problem
    - Forgetting curve
-   - Intertemporal choice
+   - Intertemporal choice : discounting
 
 
 ** 3. Bios
