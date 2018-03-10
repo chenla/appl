@@ -272,6 +272,9 @@ maintaining civilizations.
      - age  
 
 *** Part 5. Estrangement
+:PROPERTIES:
+:ID:       31a5d7c9-9685-4ec3-9d1f-ea60810b7ebb
+:END:
 
  - quality -- beauty    -- connectedness
  - caring  -- integrity -- control
@@ -336,6 +339,16 @@ Even worse, we have built up concentric layers of collective
 maps around us to the point where we don't know what is
 real and what isn't.
 
+#+begin_comment
+[2018-03-10 Sat] Tried to explain some of this to Mike
+tonight when I was in Phnom Penh today, but I think he
+didn't understand what I was trying to say.  I called it
+mediation rather than explain map-territory.
+
+Am I on the right track here?  I still think so.  But that's
+the problem of working on this stuff for so long on my own,
+I need more feedback to make sure I'm on track.
+#+end_comment
 
 
 *** Part 6. Pattern Languages
