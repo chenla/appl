@@ -44,8 +44,7 @@ We will employ five overlapping structures, which we will
 refer to as =graphs=, =maps=, =threads=, =layers=, and
 =heaps=.
 
-*** Notes
-
+#+begin_comment
 I've been looking a lot deeper into Big History -- it's
 ambitious and comprehensive, with a lot of effort spent on
 critical thinking, reading, writing and debating skills.
@@ -117,134 +116,151 @@ different narratives.  After all the idea here is that these
 are shared narratives is critical.  We don't want this to
 splinter into thousands of tiny narratives, like religions
 in India.
+#+end_comment
 
 
 *** Graphs**
-The primer can best be understood as a =directed graph= that is a set
-of =vertices=, or /nodes/ which are connected to other nodes by
-=edges=, or /relationships/.  The primer as a whole forms a
-=territory=.
+The primer can best be understood as a =directed graph= that
+is a set of =vertices=, or /nodes/ which are connected to
+other nodes by =edges=, or /relationships/.  The primer as a
+whole forms a =territory=.
 
-Nature is better understood as a /graph/ rather than a =tree=.  A
-graph is flexible and resilient which can contain multiple overlapping
-tress within it.  The failure of one or two edges in a tree graph can
-result in systemic failure.  But a tree which is a subset of a graph
-remains functional, giving more time to repair, replace or remap a
-tree using other adjacent nodes.  Most monopolies are characterized by
-tree-like structures, where power is concentrated in a small number of
-nodes which control all other nodes beneath them.  Monopolies are
-structurally hostile to change, while also having all of the
-disadvantages of centralized command and control structures.
+Nature is better understood as a /graph/ rather than a
+=tree=.  A graph is flexible and resilient which can contain
+multiple overlapping tress within it.  The failure of one or
+two edges in a tree graph can result in systemic failure.
+But a tree which is a subset of a graph remains functional,
+giving more time to repair, replace or remap a tree using
+other adjacent nodes.  Most monopolies are characterized by
+tree-like structures, where power is concentrated in a small
+number of nodes which control all other nodes beneath them.
+Monopolies are structurally hostile to change, while also
+having all of the disadvantages of centralized command and
+control structures.
 
-The Westphalian System of Nation States has all but eradicated other
-systems during the 20th century.  When individual states were
-relatively weak and porous, the system worked relatively well.  The
-system has since ossified into strong states which believe in the
-illusion of their inalienable sovereignty.  They are in effect
-monopolies which are so resistent to change that they are unable to
-cope with external existential change which is outside their control.
+The Westphalian System of Nation States has all but
+eradicated other systems during the 20th century.  When
+individual states were relatively weak and porous, the
+system worked relatively well.  The system has since
+ossified into strong states which believe in the illusion of
+their inalienable sovereignty.  They are in effect
+monopolies which are so resistent to change that they are
+unable to cope with external existential change which is
+outside their control.
 
-In order to survive, Nation States increasingly depend on establishing
-and supporting other commercial and non-governmental monopolies in
-order to survive.
+In order to survive, Nation States increasingly depend on
+establishing and supporting other commercial and
+non-governmental monopolies in order to survive.
 
 *** Maps
-A =map= is a representation of a =territory= that is typically
-simplified by reducing the =level of detail= (LOD) that can be
-observed when looking at a territory as a whole.
+A =map= is a representation of a =territory= that is
+typically simplified by reducing the =level of detail= (LOD)
+that can be observed when looking at a territory as a whole.
 
-This is embodied in the map-territory relationship where when a map
-becomes too detailed it becomes a territory in it's own right.
+This is embodied in the map-territory relationship where
+when a map becomes too detailed it becomes a territory in
+it's own right.
 
-Maps are very powerful structures.  Our brains can be thought of as
-maps of the outside world, that are made up of a combination of
-memories and conjecture.  We use these world maps to navigate the
-world around us, understand it and decide what to do next.
+Maps are very powerful structures.  Our brains can be
+thought of as maps of the outside world, that are made up of
+a combination of memories and conjecture.  We use these
+world maps to navigate the world around us, understand it
+and decide what to do next.
 
-The power of maps allows us to comprehend and control structures which
-are too large for us to see directly through our senses.
+The power of maps allows us to comprehend and control
+structures which are too large for us to see directly
+through our senses.
 
-We can never become conscious omnicient gods because you can only
-understand something as a map that is seen from the outside.  Once
-that map hits a critical threshold of complexity it becomes a
-territory and can not be thought about becuase you are no longer an
-outsider looking in, but a territory in its own right.  A territory
-can not be self-conscious because a territory can never see itself as
-a whole.  A territory has no means of differentiating itself from
-anything else around it because essentual there is nothing outside of
-it.  Only subsets of territories can become self-conscious beings.
+We can never become conscious omnicient gods because you can
+only understand something as a map that is seen from the
+outside.  Once that map hits a critical threshold of
+complexity it becomes a territory and can not be thought
+about becuase you are no longer an outsider looking in, but
+a territory in its own right.  A territory can not be
+self-conscious because a territory can never see itself as a
+whole.  A territory has no means of differentiating itself
+from anything else around it because essentual there is
+nothing outside of it.  Only subsets of territories can
+become self-conscious beings.
 
    *back this up with TED Talk about scientist having a stroke*
 
-At first glance this might sound like a philosophical argument that
-has no practical application but in fact the reverse is true because
-it creates a very real threshold for what can be known.
+At first glance this might sound like a philosophical
+argument that has no practical application but in fact the
+reverse is true because it creates a very real threshold for
+what can be known.
 
-National surveillance organizations are learning this the hard way.
-The more intelligence you collect, the less you will be able to learn
-from it.  The processing power required to /understand/ data that has
-been collected eventually becomes so great that it is no longer
-economically practical to do.  But even if you could command that much
-computational power, and /everything/ was processed, the resulting
-information produced would so large that it no longer functions as a
-map.
+National surveillance organizations are learning this the
+hard way.  The more intelligence you collect, the less you
+will be able to learn from it.  The processing power
+required to /understand/ data that has been collected
+eventually becomes so great that it is no longer
+economically practical to do.  But even if you could command
+that much computational power, and /everything/ was
+processed, the resulting information produced would so large
+that it no longer functions as a map.
 
-If you are looking for a needle in a haystack, then you must find a
-way of subtracting the large set of hay from the tiny set of needles
-which contains only a single item.  The haystack is so large that is
-becomes a territory. 
+If you are looking for a needle in a haystack, then you must
+find a way of subtracting the large set of hay from the tiny
+set of needles which contains only a single item.  The
+haystack is so large that is becomes a territory.
 
-The pin can be found by thinking of it as a sorting problem. There are
-far better algorithms to do this, but you can take the haystack and
-stort everything into two piles, a pile of straw and a pile of pins.
-You will find the pin, but will have had to throw away most of the
-information about the hay.
+The pin can be found by thinking of it as a sorting
+problem. There are far better algorithms to do this, but you
+can take the haystack and stort everything into two piles, a
+pile of straw and a pile of pins.  You will find the pin,
+but will have had to throw away most of the information
+about the hay.
 
-You could create a map of the haystack, which will make it possible to
-understand the structure of the haystack, but this means that you
-probably have lost the information of where a single pin might be
-within the the stack.
+You could create a map of the haystack, which will make it
+possible to understand the structure of the haystack, but
+this means that you probably have lost the information of
+where a single pin might be within the the stack.
 
-This is similar to the famous double slit experiment in physics
+This is similar to the famous double slit experiment in
+physics
 
-You can measure something as a set of positions -- a wave, or as a
-single position -- a particle, but you can't measure both at the same
-time.
+You can measure something as a set of positions -- a wave,
+or as a single position -- a particle, but you can't measure
+both at the same time.
 
-In large organizations, those in control need to rely on maps.  This
-leads to the illusion that you are looking at a territory and not a
-map of a territory.  You have in effect thrown out all hay but for a
-handful of things you want to see in the stack.  For a State that map
-boils town to borders, taxes and conscription.  Practically everything
+In large organizations, those in control need to rely on
+maps.  This leads to the illusion that you are looking at a
+territory and not a map of a territory.  You have in effect
+thrown out all hay but for a handful of things you want to
+see in the stack.  For a State that map boils town to
+borders, taxes and conscription.  Practically everything
 else is lost.  This results in blind spots and a general
-misunderstanding of what is really happening until something becomes
-large enough to impact borders, taxes and the ability to conscript
-soldiers.  When change is slow, large systems can be controlled in
-this way, but as the rate of change increases the handful of
-parameters that make up your map will not allow you to understand what
-is happening.
+misunderstanding of what is really happening until something
+becomes large enough to impact borders, taxes and the
+ability to conscript soldiers.  When change is slow, large
+systems can be controlled in this way, but as the rate of
+change increases the handful of parameters that make up your
+map will not allow you to understand what is happening.
 
 *** Threads
 
-Think Ariadne's thread....  I love Eco's line that the thread makes
-the destination inevitible, the Minotaur is just thrown in to make 
-things a bit more exciting...
+Think Ariadne's thread....  I love Eco's line that the
+thread makes the destination inevitible, the Minotaur is
+just thrown in to make things a bit more exciting...
 
 *** Layers
 
-obviously pace layers, but also things like the tcp stack, different
-layers with different LODs (such as levels of difficulty) or POVs.
+obviously pace layers, but also things like the tcp stack,
+different layers with different LODs (such as levels of
+difficulty) or POVs.
 
 *** Heaps
 
-heaps (or bags, in RDF) are any set that are not connected together
-into a system.
+heaps (or bags, in RDF) are any set that are not connected
+together into a system.
 
 heaps are not bad in themselves -- but they are not living
 
-systems that are made up of strong connections and relationships have
-more life, and are.... beautiful.  Broken systems, are not heaps, but
-they are failed systems which tend to be ugly.
+systems that are made up of strong connections and
+relationships have more life, and are.... beautiful.  Broken
+systems, are not heaps, but they are failed systems which
+tend to be ugly.
 
 ** Classes
 
@@ -271,8 +287,8 @@ triggers that kick in a negative feedback loop that corrects
 things, without destroying anything good that is associated
 with it.  Canaries don't die unless there is something that
 is out of wack that killed the bird.  Just don't use them to
-supress change, or growth.  Use them to ensure that change is
-happening at a pace that is within cognitive and cultural
+supress change, or growth.  Use them to ensure that change
+is happening at a pace that is within cognitive and cultural
 limits over larger time frames.  We are bad at recognizing
 canaries when they are just starting.  A canary should
 trigger at multiple thresholds -- the earliest patterns
