@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   APPL | TOC
+#+TITLE:   APPL TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -10,10 +10,9 @@
 
 bibliography:../hoard/bib.bib
 
-* Warp and Woof
- - [[./ww-intro.org][Warp & Woof Intro]]
+[top]
 
-* APPL | Table of Contents
+* Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/appl/index.org
@@ -30,88 +29,171 @@ bibliography:../hoard/bib.bib
 
  - [[./appl-intro.org][Introduction]]
 
-** 9. Fashion
- - [[./appl9:fashion-layer.org][Fashion Layer]]
-
-** 8. Commerce
- - [[./appl8:commerce-layer.org][Commerce Layer]]
- - Supply & Demand
- - Production
- - Transaction
- - Logistics
-** 7. Infrastructure
- - [[./appl7:infrastructure.org][Infrastructure Layer]]
- - Collective Commons
-   - forest, pasture, paths, ponds
-   - roads, tunnels, bridges
-   - knowledge & data
- - Borders: illusion, possession & ownership
-   - property
-   - airspace
-   - bandwidth
- - Degrade gracefully
- - Network of local grids 
-   - water
-   - electric
-   - info: compute, cognition, storage
-   - fuels -- petro, bio, gas -- solid/liquid/gas 
-   - sewage collction and processing
-   - trash collecting and processing
- - Stockpiles -- banks, food stores, metals, commodities
-   should be understood in terms of D. Meadows "size of
-   buffers" cite:meadows:1999leverage
- - [[./appl7:slow-ai.org][Slow AI]]
-
- - [[./appl7-biospheres.org][Distinct Biospheres]]: Habitats
- - Independent Bioregions: 2-8 million
-   - APL1. Indepdent Regions
-   - APL2. Distribution of Towns
- - Major Cities: 500,000
- - Communities and Towns: 5-10,000
-   - APL. Community of 7,000
- - Neighborhoods: 500-100
- - House Clusters and Work Communities: 30-50
- - Families and Workgroups: 1-15 
 
 
 
- - generation -- electic, cooling, storage, atmosphere
- - gas/electric charging stations
- - logistics
- - transactions: currency & exchange
+* Cantos XVI-XVIII Big Here, Long Now
 
- - Structures
-
-
- - Managed Ecosystems
- - Agriculture
-
- - Mimicing Ecosystems
+** Cosmos
+:PROPERTIES:
+:ID:       1205e5b5-b37c-4c25-b928-dd8cf8391b70
+:END:
+ - [[./appl0-cosmos-layer.org][Cosmos Layer]]
 
 
- - Agricultural Zones (Mollison)
- - Hügelkultur (raised beds)
- - Chinampa ("floating" beds) and Waru Waru
-   https://en.wikipedia.org/wiki/Chinampa
-   https://en.wikipedia.org/wiki/Waru_Waru
-   http://www.oas.org/dsd/publications/Unit/oea59e/ch27.htm
-   https://en.wikipedia.org/wiki/Nanfang_Caomu_Zhuang
- - Palm Circles
+ - COSMOLOGICAL
+   - it from bit           --> binary nature of quantum events
+                           -   information is physical
+                           --> information is base unit
 
-** 6. Governance
- - [[./appl6:governance.org][Goverance Layer]]
- - representation
- - judgement 
- - force
- - territory
-   - porous borders (right to travel and emigrate) based on carrying capacity
- - corporate ???
- - Fabric of Guilds (overlap, checks and balances)
- - * | Hierarchies of Mastery
-   - Masters
-   - Journeymen
-   - Apprentices
-** 5. Culture
+   - entropy's arrow       --> everything breaks down
+                           -   living systems build order
+                           -   entropy wins in the end
+                           -   entropy gives time a direction
+                           -   time creates stories
+                           --> arrow of time
+
+   - causal propagation    --> everything is process
+                           -   absolute  -> light cones
+                           -   practical -> time to do things
+                           --> pace layers
+
+ - GRAVITY
+   - holds things together
+   - pressure
+   - potential energy from gravity does work without expending energy
+   - up and down
+   - Mechanics
+     - Lagrange Points
+     - HTO Transfer Orbits
+
+ - HEAT
+   - States of Matter (solid, liquid, gas)
+   - Goldilocks Zones --> temperature
+   - cold and computation
+   - heat transfer
+   - fusion and fire
+
+ - ELECTROMAGNETISM
+   - electric fields
+   - magnetic fields
+   - light 
+
+ - DUALITIES
+   - contexual fnords      --> context determines observation
+                           -   LOD -- coastline paradox
+                           -   POV -- 
+                           -   ROC -- 
+                           -   true/false determined by context
+                           --> alive and dead until observed
+
+   - the cosmic holarchy   --> everything is nested part/whole
+                           --> everything forms a directed graph
+-----
+
+ - the continuum of civilization
+ - [[./appl0:antifragile.org][Antifragile Civilization]]
+ - A Multi-Basket Humanity
+ - Dual Natures
+   - [[./appl0:janus.org][Janus Pattern]] (Whole Part)
+ - Context
+   - Level of Detail (LOD): coastline paradox
+   - Point of View (POV) 
+   - Rate of Change (ROT)
+ - Systems
+   - living systems
+   - distribution
+   - constants & variables
+   - buffers
+   - stock-and-flow
+   - latency
+   - delays
+   - diversity
+   - negative feedback loops
+     - goal
+     - sensor and signal
+     - response mechanism
+   - positive feedback loops
+** Helios
+ - [[./appl1:helios-layer.org][Helios Layer]]
+
+** Lithos
+ - [[./appl2:lithos-layer.org][Lithos Layer]]
+ - Rock, Iron & Ice
+ - * | Elements
+   - Carbon
+   - Oxygen
+   - Nitrogen
+   - Potassium
+     Its compounds are very important, being used in glass
+     making, soap making, in fertilizers, and in many drugs
+     and chemicals.
+   - Chlorine
+   - Sodium
+   - Silicon
+   - Iron
+   - Gold
+   - Silver
+   - Copper
+   - Mercury
+   - Aluminum
+ - * | Molecules
+   - Water
+   - Methane
+   - Carbon Dioxide
+   - Calcium Carbonate (Lime)
+   - Potash --> lye
+   - Soda ash
+   - Slaked lime
+   - Ammonia
+   - ethanol
+   - acetic acid
+   - sulfuric acid
+   - hydrochloric acid
+   - nitric acid
+   - potassium nitrate (saltpeter)
+
+
+* Cantos ??-?? Life
+
+not only anthros, but other types of life needed for
+civilization
+
+ - micro-organisms
+ - domesticated plants
+ - domesticated animals
+
+** Bios
+ - [[./appl3:bios-layer.org][Bios Layer]]
+ - Biosphere 1
+   - Atmosphere
+   - Hydrosphere
+
+ - Building Blocks
+   - sugars
+   - salts
+   - starches
+   - proteins
+ - DNA 
+** Anthros
+ - [[./appl4:anthros-layer.org][Anthros Layer]]
+ - Biology
+   - Diurnal Cycles
+   - Group Size (Bands, Tribes)
+   - Fovea centralis
+ - Transactive species
+ - Cognitive Limits: concentration, short term memory, long
+   term memory retrieval.
+   - The Magic number 7
+   - Dunbar's Number: 150
+   - Small World Problem
+   - Forgetting curve
+   - Intertemporal choice : discounting
+ - Cognitive Bias
+   - Shifting baseline cite:wiki:2018shifting-baseline
+
+* Cantos ??-?? Civilization
+** Culture
  - [[./appl5:culture-layer.org][Culture Layer]]
 
  - [[./appl5:structured-groups.org][Structured Groups]]
@@ -194,150 +276,85 @@ bibliography:../hoard/bib.bib
    - Transparency
    - Contribution (time, mind, material wealth???)
    - [[./appl5:tolerance.org][Tolerance]]
-** 4. Anthros
- - [[./appl4:anthros-layer.org][Anthros Layer]]
- - Biology
-   - Diurnal Cycles
-   - Group Size (Bands, Tribes)
-   - Fovea centralis
- - Transactive species
- - Cognitive Limits: concentration, short term memory, long
-   term memory retrieval.
-   - The Magic number 7
-   - Dunbar's Number: 150
-   - Small World Problem
-   - Forgetting curve
-   - Intertemporal choice : discounting
+
+** Governance
+ - [[./appl6:governance.org][Goverance Layer]]
+ - representation
+ - judgement 
+ - force
+ - territory
+   - porous borders (right to travel and emigrate) based on carrying capacity
+ - corporate ???
+ - Fabric of Guilds (overlap, checks and balances)
+ - * | Hierarchies of Mastery
+   - Masters
+   - Journeymen
+   - Apprentices
+** Infrastructure
+ - [[./appl7:infrastructure.org][Infrastructure Layer]]
+ - Collective Commons
+   - forest, pasture, paths, ponds
+   - roads, tunnels, bridges
+   - knowledge & data
+ - Borders: illusion, possession & ownership
+   - property
+   - airspace
+   - bandwidth
+ - Degrade gracefully
+ - Network of local grids 
+   - water
+   - electric
+   - info: compute, cognition, storage
+   - fuels -- petro, bio, gas -- solid/liquid/gas 
+   - sewage collction and processing
+   - trash collecting and processing
+ - Stockpiles -- banks, food stores, metals, commodities
+   should be understood in terms of D. Meadows "size of
+   buffers" cite:meadows:1999leverage
+ - [[./appl7:slow-ai.org][Slow AI]]
+
+ - [[./appl7-biospheres.org][Distinct Biospheres]]: Habitats
+ - Independent Bioregions: 2-8 million
+   - APL1. Indepdent Regions
+   - APL2. Distribution of Towns
+ - Major Cities: 500,000
+ - Communities and Towns: 5-10,000
+   - APL. Community of 7,000
+ - Neighborhoods: 500-100
+ - House Clusters and Work Communities: 30-50
+ - Families and Workgroups: 1-15 
 
 
-** 3. Bios
- - [[./appl3:bios-layer.org][Bios Layer]]
- - Biosphere 1
-   - Atmosphere
-   - Hydrosphere
 
- - Building Blocks
-   - sugars
-   - salts
-   - starches
-   - proteins
- - DNA 
+ - generation -- electic, cooling, storage, atmosphere
+ - gas/electric charging stations
+ - logistics
+ - transactions: currency & exchange
 
-** 2. Lithos
- - [[./appl2:lithos-layer.org][Lithos Layer]]
- - Rock, Iron & Ice
- - * | Elements
-   - Carbon
-   - Oxygen
-   - Nitrogen
-   - Potassium
-     Its compounds are very important, being used in glass
-     making, soap making, in fertilizers, and in many drugs
-     and chemicals.
-   - Chlorine
-   - Sodium
-   - Silicon
-   - Iron
-   - Gold
-   - Silver
-   - Copper
-   - Mercury
-   - Aluminum
- - * | Molecules
-   - Water
-   - Methane
-   - Carbon Dioxide
-   - Calcium Carbonate (Lime)
-   - Potash --> lye
-   - Soda ash
-   - Slaked lime
-   - Ammonia
-   - ethanol
-   - acetic acid
-   - sulfuric acid
-   - hydrochloric acid
-   - nitric acid
-   - potassium nitrate (saltpeter)
-** 1. Helios
- - [[./appl1:helios-layer.org][Helios Layer]]
-** 0. Cosmos
-:PROPERTIES:
-:ID:       1205e5b5-b37c-4c25-b928-dd8cf8391b70
-:END:
- - [[./appl0-cosmos-layer.org][Cosmos Layer]]
+ - Structures
 
 
- - COSMOLOGICAL
-   - it from bit           --> binary nature of quantum events
-                           -   information is physical
-                           --> information is base unit
+ - Managed Ecosystems
+ - Agriculture
 
-   - entropy's arrow       --> everything breaks down
-                           -   living systems build order
-                           -   entropy wins in the end
-                           -   entropy gives time a direction
-                           -   time creates stories
-                           --> arrow of time
+ - Mimicing Ecosystems
 
-   - causal propagation    --> everything is process
-                           -   absolute  -> light cones
-                           -   practical -> time to do things
-                           --> pace layers
 
- - GRAVITY
-   - holds things together
-   - pressure
-   - potential energy from gravity does work without expending energy
-   - up and down
-   - Mechanics
-     - Lagrange Points
-     - HTO Transfer Orbits
+ - Agricultural Zones (Mollison)
+ - Hügelkultur (raised beds)
+ - Chinampa ("floating" beds) and Waru Waru
+   https://en.wikipedia.org/wiki/Chinampa
+   https://en.wikipedia.org/wiki/Waru_Waru
+   http://www.oas.org/dsd/publications/Unit/oea59e/ch27.htm
+   https://en.wikipedia.org/wiki/Nanfang_Caomu_Zhuang
+ - Palm Circles
 
- - HEAT
-   - States of Matter (solid, liquid, gas)
-   - Goldilocks Zones --> temperature
-   - cold and computation
-   - heat transfer
-   - fusion and fire
-
- - ELECTROMAGNETISM
-   - electric fields
-   - magnetic fields
-   - light 
-
- - DUALITIES
-   - contexual fnords      --> context determines observation
-                           -   LOD -- coastline paradox
-                           -   POV -- 
-                           -   ROC -- 
-                           -   true/false determined by context
-                           --> alive and dead until observed
-
-   - the cosmic holarchy   --> everything is nested part/whole
-                           --> everything forms a directed graph
------
-
- - the continuum of civilization
- - [[./appl0:antifragile.org][Antifragile Civilization]]
- - A Multi-Basket Humanity
- - Dual Natures
-   - [[./appl0:janus.org][Janus Pattern]] (Whole Part)
- - Context
-   - Level of Detail (LOD): coastline paradox
-   - Point of View (POV) 
-   - Rate of Change (ROT)
- - Systems
-   - living systems
-   - distribution
-   - constants & variables
-   - buffers
-   - stock-and-flow
-   - latency
-   - delays
-   - diversity
-   - negative feedback loops
-     - goal
-     - sensor and signal
-     - response mechanism
-   - positive feedback loops
+** Commerce
+ - [[./appl8:commerce-layer.org][Commerce Layer]]
+ - Supply & Demand
+ - Production
+ - Transaction
+ - Logistics
+** Fashion
+ - [[./appl9:fashion-layer.org][Fashion Layer]]
 
