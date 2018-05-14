@@ -1,19 +1,19 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Introduction
+#+TITLE: APPL Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-APPL-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 bibliography:../hoard/bib.bib
 
-* Introduction
+* APPL Introduction
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/appl/appl-intro.org
@@ -117,7 +117,6 @@ are shared narratives is critical.  We don't want this to
 splinter into thousands of tiny narratives, like religions
 in India.
 #+end_comment
-
 
 *** Graphs**
 The primer can best be understood as a =directed graph= that
