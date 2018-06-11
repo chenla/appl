@@ -29,3 +29,9 @@ A Pace-Layer Pattern Language (APPL) is one of the major components of
 the Primer.
 
 
+--- 
+
+*NOTE*: The primary repo is @ [[http://git.chenla.org/hoard/appl]] 
+Please submit pull requests and issues there.  A read
+only-mirror is maintained @ [[https://github.com/chenla/appl]]
+
